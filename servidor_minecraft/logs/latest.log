@@ -3019,3 +3019,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 06:54:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
 [08Dec2024 06:58:24.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 400 [Potato] to JhynMC]
 [08Dec2024 06:58:30.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 200 [Carrot] to JhynMC]
+[08Dec2024 07:03:49.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Twanna'/2351, l='ServerLevel[world]', x=-458.54, y=81.00, z=994.39] died: Twanna was shot by Skeleton
+[08Dec2024 07:05:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set the weather to rain & thunder]
+[08Dec2024 07:06:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
