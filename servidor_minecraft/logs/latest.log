@@ -3022,3 +3022,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 07:03:49.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Twanna'/2351, l='ServerLevel[world]', x=-458.54, y=81.00, z=994.39] died: Twanna was shot by Skeleton
 [08Dec2024 07:05:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set the weather to rain & thunder]
 [08Dec2024 07:06:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[08Dec2024 07:09:38.501] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ancient_factory took 50 ms
+[08Dec2024 07:09:49.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -1791.500000, 90.562500, 1984.500000]
+[08Dec2024 07:09:49.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6634ms or 132 ticks behind
+[08Dec2024 07:09:52.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[08Dec2024 07:10:12.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Ancient Civilization]
+[08Dec2024 07:10:50.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[08Dec2024 07:13:55.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[08Dec2024 07:18:40.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Smite V to JhynMC's item]
+[08Dec2024 07:18:46.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking I to JhynMC's item]
+[08Dec2024 07:18:51.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
+[08Dec2024 07:18:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Sweeping Edge I to JhynMC's item]
