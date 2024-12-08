@@ -994,5 +994,11 @@
     },
     "done": true
   },
+  "taxov:advancement_turtle_armor": {
+    "criteria": {
+      "advancement_turtle_armor_0": "2024-12-08 23:00:17 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
