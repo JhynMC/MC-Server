@@ -3037,3 +3037,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 22:00:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [08Dec2024 22:00:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Longfooted IV to JhynMC's item]
 [08Dec2024 22:01:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Longfooted V to JhynMC's item]
+[08Dec2024 22:12:10.395] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[08Dec2024 22:12:22.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.132.90.97:45933] logged in with entity id 10693 at (-383.1613232298821, 83.0, 1154.7948477545044)
+[08Dec2024 22:12:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[08Dec2024 22:12:22.550] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[08Dec2024 22:14:04.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OA JHYNCITOOOOO
+[08Dec2024 22:15:20.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Holii Pepiiiiiii
