@@ -3034,3 +3034,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 21:57:56.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:53397] logged in with entity id 6210 at (-349.79976850617504, 86.0, 1064.093918013389)
 [08Dec2024 21:57:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
 [08Dec2024 21:57:56.040] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[08Dec2024 22:00:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[08Dec2024 22:00:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Longfooted IV to JhynMC's item]
+[08Dec2024 22:01:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Longfooted V to JhynMC's item]
