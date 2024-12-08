@@ -3130,3 +3130,25 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 23:39:19.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> salio un tank sin raid xD
 [08Dec2024 23:40:40.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
 [08Dec2024 23:40:40.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[08Dec2024 23:40:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[08Dec2024 23:41:17.472] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38003d54[id=<null>,name=Pepeowo,properties={},legacy=false] (/127.121.247.159:46797) lost connection: Disconnected
+[08Dec2024 23:41:49.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :b
+[08Dec2024 23:42:03.468] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@951b969[id=<null>,name=Pepeowo,properties={},legacy=false] (/127.121.247.159:48609) lost connection: Disconnected
+[08Dec2024 23:42:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> voy a checar lo del aleano
+[08Dec2024 23:42:40.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ae7838f[id=<null>,name=Pepeowo,properties={},legacy=false] (/127.121.247.159:58757) lost connection: Disconnected
+[08Dec2024 23:42:52.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[08Dec2024 23:43:22.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4d01481a[id=<null>,name=Pepeowo,properties={},legacy=false] (/127.121.247.159:45973): Took too long to log in
+[08Dec2024 23:43:22.238] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d01481a[id=<null>,name=Pepeowo,properties={},legacy=false] (/127.121.247.159:45973) lost connection: Took too long to log in
+[08Dec2024 23:43:22.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 23:43:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Voluntary Exile]
+[08Dec2024 23:44:11.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -1.156511944367253,0.0,-9.958985403381803
+[08Dec2024 23:44:47.258] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[08Dec2024 23:44:52.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:43419] logged in with entity id 47233 at (-348.8486733195511, 81.0, 1093.5611608325476)
+[08Dec2024 23:44:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[08Dec2024 23:44:52.621] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[08Dec2024 23:45:47.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[08Dec2024 23:45:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[08Dec2024 23:46:33.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> dejeme revisar
+[08Dec2024 23:47:31.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El cocinero te pide que le encuentres Creeper Fruit, que se puede obtener matando un Creeper expuesto a la luz solar.
+[08Dec2024 23:48:32.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> la única variante es el mini creeper
+[08Dec2024 23:50:46.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Ol' Betsy]
