@@ -3026,3 +3026,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 21:21:26.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Feather Falling IV to JhynMC's item]
 [08Dec2024 21:27:24.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Elva'/692, l='ServerLevel[world]', x=-488.29, y=56.00, z=1022.40] died: Elva was shot by Skeleton
 [08Dec2024 21:37:19.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[08Dec2024 21:47:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ex
