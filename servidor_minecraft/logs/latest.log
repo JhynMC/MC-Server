@@ -3027,3 +3027,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 21:27:24.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Elva'/692, l='ServerLevel[world]', x=-488.29, y=56.00, z=1022.40] died: Elva was shot by Skeleton
 [08Dec2024 21:37:19.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [08Dec2024 21:47:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ex
+[08Dec2024 21:51:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aaaaa
+[08Dec2024 21:52:19.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[08Dec2024 21:52:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[08Dec2024 21:57:37.100] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[08Dec2024 21:57:56.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:53397] logged in with entity id 6210 at (-349.79976850617504, 86.0, 1064.093918013389)
+[08Dec2024 21:57:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[08Dec2024 21:57:56.040] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
