@@ -55,6 +55,7 @@
       "snowblossom_grove": "2024-12-01 22:58:23 +0000",
       "rocky_shrubland": "2024-12-02 04:14:43 +0000",
       "scrubland": "2024-11-20 03:28:20 +0000",
+      "erupting_inferno": "2024-12-09 03:53:49 +0000",
       "highland": "2024-11-16 04:16:16 +0000",
       "marsh": "2024-11-16 05:07:27 +0000",
       "jade_cliffs": "2024-12-02 04:14:55 +0000",
@@ -63,6 +64,7 @@
       "cold_desert": "2024-11-16 03:32:47 +0000",
       "old_growth_woodland": "2024-12-02 01:22:29 +0000",
       "maple_woods": "2024-11-16 04:16:27 +0000",
+      "crystalline_chasm": "2024-12-09 03:54:53 +0000",
       "field": "2024-12-01 22:56:49 +0000",
       "orchard": "2024-12-02 00:40:05 +0000",
       "lavender_forest": "2024-12-02 00:40:25 +0000",
@@ -138,6 +140,7 @@
       "minecraft:blaze": "2024-12-02 06:20:10 +0000",
       "minecraft:skeleton": "2024-11-16 03:38:47 +0000",
       "minecraft:ravager": "2024-12-09 01:00:09 +0000",
+      "minecraft:ghast": "2024-12-09 03:54:07 +0000",
       "minecraft:hoglin": "2024-12-02 06:27:51 +0000",
       "minecraft:vindicator": "2024-12-02 00:25:38 +0000",
       "minecraft:magma_cube": "2024-12-02 06:21:35 +0000",
@@ -630,9 +633,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-02 06:24:03 +0000",
-      "minecraft:warped_forest": "2024-12-02 02:53:22 +0000"
+      "minecraft:nether_wastes": "2024-12-09 03:51:43 +0000",
+      "minecraft:soul_sand_valley": "2024-12-09 03:55:43 +0000",
+      "minecraft:warped_forest": "2024-12-02 02:53:22 +0000",
+      "minecraft:basalt_deltas": "2024-12-09 03:51:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -727,6 +733,12 @@
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-09 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-09 03:51:55 +0000"
     },
     "done": true
   },

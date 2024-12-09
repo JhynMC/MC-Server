@@ -65,6 +65,7 @@
       "cold_desert": "2024-11-16 04:07:01 +0000",
       "old_growth_woodland": "2024-11-21 19:28:06 +0000",
       "maple_woods": "2024-11-16 04:16:13 +0000",
+      "crystalline_chasm": "2024-12-09 03:54:56 +0000",
       "field": "2024-11-16 06:46:50 +0000",
       "orchard": "2024-12-01 23:40:17 +0000",
       "moor": "2024-12-01 23:10:21 +0000",
@@ -93,7 +94,8 @@
       "tundra": "2024-12-09 02:57:17 +0000",
       "glowing_grotto": "2024-11-19 22:55:30 +0000",
       "rainforest": "2024-11-21 19:34:30 +0000",
-      "crag": "2024-11-17 06:41:31 +0000"
+      "crag": "2024-11-17 06:41:31 +0000",
+      "snowy_maple_woods": "2024-12-09 03:44:17 +0000"
     },
     "done": false
   },
@@ -299,6 +301,7 @@
       "minecraft:flower_forest": "2024-11-16 07:48:49 +0000",
       "minecraft:frozen_peaks": "2024-11-17 06:35:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 06:24:19 +0000",
+      "minecraft:deep_dark": "2024-12-09 03:45:06 +0000",
       "minecraft:meadow": "2024-11-17 06:42:40 +0000",
       "minecraft:windswept_gravelly_hills": "2024-11-16 07:16:55 +0000",
       "minecraft:savanna": "2024-11-21 19:27:40 +0000",
@@ -666,6 +669,20 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-09 03:54:08 +0000",
+      "minecraft:soul_sand_valley": "2024-12-09 03:55:43 +0000",
+      "minecraft:warped_forest": "2024-12-09 03:52:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 03:52:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-09 02:52:36 +0000"
@@ -675,6 +692,18 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2024-12-09 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 03:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-09 03:53:26 +0000"
     },
     "done": true
   },

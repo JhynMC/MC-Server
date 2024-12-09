@@ -133,6 +133,7 @@
       "minecraft:flower_forest": "2024-11-18 04:41:55 +0000",
       "minecraft:frozen_peaks": "2024-11-17 06:36:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 06:24:59 +0000",
+      "minecraft:deep_dark": "2024-12-09 03:49:05 +0000",
       "minecraft:meadow": "2024-11-17 06:42:10 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 03:22:41 +0000",
       "minecraft:plains": "2024-11-17 05:50:16 +0000"
@@ -344,15 +345,27 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
-      "kill_mimic": "2024-12-09 02:54:51 +0000"
+      "tool": "2024-12-09 01:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-09 02:03:26 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-09 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-09 02:54:51 +0000"
     },
     "done": true
   },
@@ -365,18 +378,6 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-09 03:19:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-09 02:03:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2024-12-09 01:54:11 +0000"
     },
     "done": true
   },
