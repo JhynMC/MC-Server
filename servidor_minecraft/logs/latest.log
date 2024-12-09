@@ -9,3 +9,64 @@
 [09Dec2024 00:11:27.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pero tenkiu
 [09Dec2024 00:11:29.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> provecho
 [09Dec2024 00:11:41.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> de los vindicadores
+[09Dec2024 00:11:57.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 00:12:44.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ui
+[09Dec2024 00:13:11.127] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1092, y=-13, z=1655}
+[09Dec2024 00:15:05.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:05.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Crawling in my Bark]
+[09Dec2024 00:15:07.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:09.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:11.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:12.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:12.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:14.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:15.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 00:15:27.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:27.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[09Dec2024 00:15:28.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Crawling in my Bark]
+[09Dec2024 00:15:28.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:15:31.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:15:31.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:15:33.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:15:34.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:15:35.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:15:36.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[09Dec2024 00:16:30.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[09Dec2024 00:16:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[09Dec2024 00:16:51.902] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1035, y=13, z=1742}
+[09Dec2024 00:17:08.678] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[09Dec2024 00:17:08.679] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[09Dec2024 00:17:08.679] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[09Dec2024 00:17:08.680] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[09Dec2024 00:17:08.680] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[09Dec2024 00:17:11.438] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[09Dec2024 00:17:11.439] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[09Dec2024 00:17:54.210] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-985, y=26, z=1908}
+[09Dec2024 00:18:07.159] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-988, y=4, z=2002}
+[09Dec2024 00:20:11.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> quiere hacer una raid?
+[09Dec2024 00:20:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> va
+[09Dec2024 00:20:34.086] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-922, y=30, z=2058}
+[09Dec2024 00:20:34.087] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-924, y=30, z=2058}
+[09Dec2024 00:20:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> enhgase
+[09Dec2024 00:21:10.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Irwin'/68517, l='ServerLevel[world]', x=-802.77, y=105.00, z=1881.50] died: Irwin was shot by Pillager
+[09Dec2024 00:21:15.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Albert'/68523, l='ServerLevel[world]', x=-805.24, y=105.00, z=1880.45] died: Albert was shot by Pillager
+[09Dec2024 00:21:16.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Nerissa'/68652, l='ServerLevel[world]', x=-801.15, y=105.00, z=1874.64] died: Nerissa was shot by Provoker
+[09Dec2024 00:21:49.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 00:22:40.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Layla'/68521, l='ServerLevel[world]', x=-758.68, y=97.00, z=1866.49] died: Layla was slain by Vindicator
+[09Dec2024 00:23:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> grafias
+[09Dec2024 00:23:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aqui
+[09Dec2024 00:26:56.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Aracelis'/68336, l='ServerLevel[world]', x=-689.41, y=89.04, z=1883.05] died: Aracelis was slain by Ravager
+[09Dec2024 00:27:04.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gabriella'/68333, l='ServerLevel[world]', x=-687.67, y=89.00, z=1880.77] died: Gabriella was slain by Ravager
+[09Dec2024 00:27:27.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Darius'/68335, l='ServerLevel[world]', x=-685.30, y=89.00, z=1879.91] died: Darius was shot by Pillager
+[09Dec2024 00:29:33.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vrg
+[09Dec2024 00:29:34.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gilbert'/68582, l='ServerLevel[world]', x=-806.57, y=105.00, z=1878.31] died: Gilbert was shot by Pillager
+[09Dec2024 00:30:30.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was slain by Skeleton
+[09Dec2024 00:30:42.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -738.500000, 88.500000, 1827.500000]
+[09Dec2024 00:30:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 00:31:26.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Danuta'/76744, l='ServerLevel[world]', x=-762.84, y=102.00, z=1898.32] died: Danuta was slain by Iron Golem
+[09Dec2024 00:31:28.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Wilbur'/76754, l='ServerLevel[world]', x=-761.42, y=101.14, z=1902.46] died: Wilbur was slain by Iron Golem
+[09Dec2024 00:31:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 00:31:56.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Haley'/68520, l='ServerLevel[world]', x=-778.30, y=104.42, z=1925.53] died, message: 'Haley was slain by Randy'
+[09Dec2024 00:31:56.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Haley'/68520, l='ServerLevel[world]', x=-778.30, y=104.42, z=1925.53] died: Haley was slain by Randy
