@@ -712,9 +712,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 03:15:57 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2024-12-09 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:23:31 +0000"
     },
     "done": true
   },
