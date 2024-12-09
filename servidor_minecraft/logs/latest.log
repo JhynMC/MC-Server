@@ -2857,3 +2857,20 @@
 [09Dec2024 01:00:59.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
 [09Dec2024 01:01:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
 [09Dec2024 01:02:20.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[09Dec2024 01:05:00.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arletta'/85619, l='ServerLevel[world]', x=-646.59, y=88.00, z=1922.76] died, message: 'Arletta bled to death'
+[09Dec2024 01:05:00.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Arletta'/85619, l='ServerLevel[world]', x=-646.59, y=88.00, z=1922.76] died: Arletta bled to death
+[09Dec2024 01:05:02.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Louie'/85526, l='ServerLevel[world]', x=-646.52, y=83.00, z=1909.33] died: Louie was slain by Skeleton
+[09Dec2024 01:06:17.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[09Dec2024 01:06:39.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepishikita21'/99707, l='ServerLevel[world]', x=-647.59, y=89.00, z=1917.94] died: Pepishikita21 was slain by JhynMC
+[09Dec2024 01:07:38.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.30794159996275994
+[09Dec2024 01:07:38.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.7882405834236579
+[09Dec2024 01:07:38.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.7882405834236579
+[09Dec2024 01:08:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 01:09:53.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.35547940460878635
+[09Dec2024 01:09:54.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.9011687511290347
+[09Dec2024 01:09:54.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5486356451890515
+[09Dec2024 01:09:54.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4787019302397084
+[09Dec2024 01:09:54.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.3144918974907114
+[09Dec2024 01:09:54.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.7617064451125088
+[09Dec2024 01:12:53.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[09Dec2024 01:12:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
