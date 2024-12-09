@@ -22690,3 +22690,35 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Dec2024 06:08:58.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [09Dec2024 06:09:08.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Skin changed]
 [09Dec2024 06:09:57.628] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:10:05.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> para hacer una espada fantasma
+[09Dec2024 06:10:11.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:10:54.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:11:50.633] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:11:56.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:11:56.879] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:12:02.529] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:12:04.078] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:12:04.078] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:12:08.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 06:12:08.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 06:12:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied skin changes for JhynMC]
+[09Dec2024 06:12:56.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Adioooos
+[09Dec2024 06:13:06.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:13:08.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ lost connection: Disconnected
+[09Dec2024 06:13:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ left the game
+[09Dec2024 06:13:50.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:13:50.080] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:14:45.836] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:14:45.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:15:42.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cómo?
+[09Dec2024 06:15:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> va
+[09Dec2024 06:16:32.532] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:16:56.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:17:02.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 06:17:08.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 06:17:08.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 06:18:00.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[09Dec2024 06:18:39.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -168.500000, 80.500000, 170.500000]
+[09Dec2024 06:19:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[09Dec2024 06:19:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] w
+[09Dec2024 06:19:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ah no sé xD
