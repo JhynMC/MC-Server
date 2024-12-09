@@ -640,12 +640,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-12-09 01:45:43 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2024-12-09 01:23:30 +0000"
@@ -655,6 +649,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-09 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-09 01:45:43 +0000"
     },
     "done": true
   },
