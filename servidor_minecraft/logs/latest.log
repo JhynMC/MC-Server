@@ -5948,3 +5948,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [09Dec2024 05:46:41.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
 [09Dec2024 05:46:56.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Qué se siente ser tan horrendo
 [09Dec2024 05:47:52.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> se ve un poco mugriento
+[09Dec2024 05:51:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya
+[09Dec2024 05:51:22.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[09Dec2024 05:52:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no
+[09Dec2024 05:52:40.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es Castigo O Filo
+[09Dec2024 05:52:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Barrido sí
+[09Dec2024 05:53:24.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya tienes de castigo we
+[09Dec2024 05:56:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [A Flaming Sword]
+[09Dec2024 05:57:31.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahh prro pero mejor farmebas otra de caballero xD
+[09Dec2024 05:58:51.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Eso era ayer
+[09Dec2024 06:00:40.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [A Flaming Sword]
+[09Dec2024 06:01:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Shape of My Heart]
+[09Dec2024 06:03:16.532] [ForkJoinPool.commonPool-worker-122/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/mineskin/request/AbstractRequestBuilder for class org/mineskin/request/UrlRequestBuilderImpl in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4 on thread Thread[#727,ForkJoinPool.commonPool-worker-122,5,SERVER]
+[09Dec2024 06:03:16.533] [ForkJoinPool.commonPool-worker-122/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at org.mineskin.request.GenerateRequest.url(GenerateRequest.java:39) ~[?:?]
+	at org.mineskin.request.GenerateRequest.url(GenerateRequest.java:43) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider.loadSkin(MineskinSkinProvider.java:112) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider$1.load(MineskinSkinProvider.java:78) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider$1.load(MineskinSkinProvider.java:75) ~[?:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3533) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2282) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2159) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2049) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3966) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3989) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4950) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider.fetchSkin(MineskinSkinProvider.java:98) ~[?:?]
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$0(SkinRestorer.java:138) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$1(SkinRestorer.java:138) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[09Dec2024 06:03:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied skin changes for JhynMC]
+[09Dec2024 06:03:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[09Dec2024 06:05:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [A Seedy Place]
+[09Dec2024 06:06:18.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tan lejos?
+[09Dec2024 06:08:31.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ajá
+[09Dec2024 06:08:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: No skin changes]
+[09Dec2024 06:09:08.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Skin changed]

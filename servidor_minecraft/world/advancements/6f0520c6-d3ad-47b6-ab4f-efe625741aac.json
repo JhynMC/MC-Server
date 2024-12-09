@@ -721,6 +721,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-09 06:00:40 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-09 04:11:28 +0000"
@@ -760,6 +766,12 @@
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-09 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-09 06:01:45 +0000"
     },
     "done": true
   },
