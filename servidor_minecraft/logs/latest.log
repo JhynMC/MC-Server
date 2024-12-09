@@ -6055,3 +6055,11 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Dec2024 06:54:51.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
 [09Dec2024 06:55:04.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
 [09Dec2024 06:58:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 64 [Cooked Porkchop] to 2]
+[09Dec2024 07:00:54.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 64 [Dragon Bone Arrow] to 2]
+[09Dec2024 07:06:38.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Through the Gauntlet]
+[09Dec2024 07:06:42.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 07:08:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ci
+[09Dec2024 07:08:50.108] [Worker-Main-412/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -683 0 207
+[09Dec2024 07:09:32.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=79, z=168} BlockPos{x=-479, y=78, z=168}
+[09Dec2024 07:09:32.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=79, z=168} BlockPos{x=-479, y=78, z=168}
+[09Dec2024 07:09:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
