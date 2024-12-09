@@ -187,14 +187,17 @@
     "criteria": {
       "minecraft:pillager": "2024-11-21 18:58:37 +0000",
       "minecraft:skeleton": "2024-11-16 04:31:57 +0000",
+      "minecraft:vindicator": "2024-12-09 01:27:44 +0000",
       "minecraft:spider": "2024-11-16 06:19:40 +0000",
       "minecraft:creeper": "2024-11-16 05:56:19 +0000",
       "minecraft:witch": "2024-11-16 04:35:44 +0000",
+      "minecraft:wither_skeleton": "2024-12-09 01:40:42 +0000",
       "minecraft:husk": "2024-11-16 06:40:28 +0000",
       "minecraft:cave_spider": "2024-11-16 04:35:39 +0000",
       "minecraft:stray": "2024-11-16 06:41:54 +0000",
       "minecraft:enderman": "2024-11-21 18:47:13 +0000",
       "minecraft:silverfish": "2024-12-01 23:49:19 +0000",
+      "minecraft:vex": "2024-12-09 01:25:14 +0000",
       "minecraft:zombie": "2024-11-16 04:23:32 +0000",
       "minecraft:drowned": "2024-11-16 04:31:38 +0000",
       "minecraft:zombie_villager": "2024-11-16 05:02:48 +0000"
@@ -616,12 +619,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2024-12-01 23:43:54 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-01 22:47:09 +0000"
@@ -631,6 +628,24 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-01 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-01 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-09 01:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-09 01:40:48 +0000"
     },
     "done": true
   },

@@ -2903,3 +2903,56 @@
 [09Dec2024 01:22:25.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to JhynMC]
 [09Dec2024 01:22:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> UN KOPPAAA
 [09Dec2024 01:23:17.820] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player junior_mtz_ is cbef8e94-dfdd-4516-9309-ffb4e5452f4a
+[09Dec2024 01:23:30.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: junior_mtz_[/127.143.68.152:37327] logged in with entity id 108098 at (-3814.169369217523, 84.0, 5260.090174534778)
+[09Dec2024 01:23:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ joined the game
+[09Dec2024 01:23:30.662] [Server thread/INFO] [Jade/]: Syncing config to junior_mtz_ (cbef8e94-dfdd-4516-9309-ffb4e5452f4a)
+[09Dec2024 01:24:06.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[09Dec2024 01:24:10.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 01:24:27.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[09Dec2024 01:24:36.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ali'/85736, l='ServerLevel[world]', x=-616.50, y=72.39, z=1896.70] died, message: 'Ali was killed by magic'
+[09Dec2024 01:24:36.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ali'/85736, l='ServerLevel[world]', x=-616.50, y=72.39, z=1896.70] died: Ali was killed by magic
+[09Dec2024 01:24:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 01:25:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:26:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Emmm
+[09Dec2024 01:26:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y los aldeanos?
+[09Dec2024 01:26:31.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:26:37.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya no estan vivps
+[09Dec2024 01:27:00.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[09Dec2024 01:27:31.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:27:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[09Dec2024 01:27:41.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:27:42.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[09Dec2024 01:27:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> otra vez perdimos la rais
+[09Dec2024 01:28:06.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Eran vatos con balletas
+[09Dec2024 01:28:15.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 01:28:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 01:29:05.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[09Dec2024 01:29:14.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[09Dec2024 01:29:18.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Era así?
+[09Dec2024 01:29:28.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sos bobo
+[09Dec2024 01:29:56.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> wueno f rais
+[09Dec2024 01:30:07.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Tenemos que cuidar a nuesta Ksimeritaaaa
+[09Dec2024 01:31:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y el tacho del inventario pintado
+[09Dec2024 01:31:26.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No tengo:c
+[09Dec2024 01:31:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> mi tacho no ta:c
+[09Dec2024 01:31:44.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Dele a la T en el inventario
+[09Dec2024 01:31:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[09Dec2024 01:32:25.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> musha paja
+[09Dec2024 01:33:19.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> io no
+[09Dec2024 01:33:22.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que es eso?
+[09Dec2024 01:33:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> En la nevara hay pizza, más tarde como
+[09Dec2024 01:34:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no otra ve
+[09Dec2024 01:34:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yr
+[09Dec2024 01:35:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] j
+[09Dec2024 01:35:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Que?
+[09Dec2024 01:36:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> andergraun?
+[09Dec2024 01:36:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> por el oeste
+[09Dec2024 01:40:48.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Spooky Scary Skeleton]
+[09Dec2024 01:42:10.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Spooky Scary Skeleton]
+[09Dec2024 01:42:41.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:42:57.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aver
+[09Dec2024 01:43:06.869] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[09Dec2024 01:43:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 01:43:24.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.192.44.69:55087] logged in with entity id 119665 at (-1263.300000011921, -42.0, 67.69999998807907)
+[09Dec2024 01:43:24.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[09Dec2024 01:43:24.552] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
