@@ -6033,3 +6033,17 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Dec2024 06:26:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nombre xD
 [09Dec2024 06:27:11.439] [Worker-Main-81/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -638 0 -38
 [09Dec2024 06:30:05.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[09Dec2024 06:31:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[09Dec2024 06:31:43.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es de un Yeti
+[09Dec2024 06:32:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> quedaban 2
+[09Dec2024 06:32:54.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[09Dec2024 06:33:32.804] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[09Dec2024 06:35:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -42.500000, 82.500000, 136.500000]
+[09Dec2024 06:35:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> xaero-waypoint:fotalesa:F:-336:70:-1:0:false:0:Internal-the-nether-waypoints
+[09Dec2024 06:35:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -335.500000, 70.500000, -0.500000]
+[09Dec2024 06:35:33.866] [Worker-Main-412/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -531 0 -204
+[09Dec2024 06:35:34.302] [Worker-Main-81/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -245 0 -214
+[09Dec2024 06:36:09.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[09Dec2024 06:37:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ohh eto era un wither
+[09Dec2024 06:38:29.079] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[09Dec2024 06:38:37.612] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
