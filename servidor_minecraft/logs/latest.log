@@ -3105,3 +3105,38 @@
 [09Dec2024 02:39:30.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported NoSoyYoshiGordo to junior_mtz_]
 [09Dec2024 02:42:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 130.500000, 7.500000, 1244.500000]
 [09Dec2024 02:44:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -13.500000, -8.500000, 1141.500000]
+[09Dec2024 02:45:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 317.500000, -21.500000, 1186.500000]
+[09Dec2024 02:46:12.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 130.500000, 7.500000, 1244.500000]
+[09Dec2024 02:46:28.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 324.500000, -8.500000, 1122.500000]
+[09Dec2024 02:46:55.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 221.500000, -19.500000, 1385.500000]
+[09Dec2024 02:47:01.394] [Worker-Main-65/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=6, z=1585}
+[09Dec2024 02:47:01.394] [Worker-Main-65/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=6, z=1585}
+[09Dec2024 02:47:01.394] [Worker-Main-65/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=6, z=1585}
+[09Dec2024 02:47:24.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 02:47:26.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 02:47:27.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 02:47:28.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 02:47:29.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 02:47:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 02:47:56.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 224.500000, -17.500000, 1387.500000]
+[09Dec2024 02:48:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> mande
+[09Dec2024 02:48:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> deme 2 minutos
+[09Dec2024 02:49:01.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to Pepeowo]
+[09Dec2024 02:49:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[09Dec2024 02:50:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[09Dec2024 02:51:07.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 02:51:12.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> son etapa 3
+[09Dec2024 02:51:16.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No daran webo
+[09Dec2024 02:51:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> las de etapa 4-5 sí
+[09Dec2024 02:51:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[09Dec2024 02:51:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sangre, huesos escamas sí
+[09Dec2024 02:51:54.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> solo sangre?
+[09Dec2024 02:51:54.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=-13, z=1359} BlockPos{x=232, y=-12, z=1358}
+[09Dec2024 02:52:26.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sólo quiere sangre?
+[09Dec2024 02:52:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 02:52:36.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Mother of Dragons]
+[09Dec2024 02:54:18.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> hmm pereme
+[09Dec2024 02:54:34.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> si se puede
+[09Dec2024 02:54:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Chest Slayer]
+[09Dec2024 02:55:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tiene que ser awa helada
+[09Dec2024 02:55:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vamos a un bioma de nieve
