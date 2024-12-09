@@ -63,6 +63,7 @@
       "cold_desert": "2024-11-16 01:37:20 +0000",
       "maple_woods": "2024-11-16 03:00:22 +0000",
       "field": "2024-11-24 00:10:22 +0000",
+      "orchard": "2024-12-09 01:56:17 +0000",
       "lavender_forest": "2024-11-17 05:55:39 +0000",
       "mediterranean_forest": "2024-11-21 18:57:17 +0000",
       "bog": "2024-11-16 04:30:17 +0000",
@@ -79,6 +80,7 @@
       "lavender_field": "2024-11-17 05:53:16 +0000",
       "fir_clearing": "2024-11-17 06:57:14 +0000",
       "pumpkin_patch": "2024-11-25 03:31:11 +0000",
+      "prairie": "2024-12-09 01:45:25 +0000",
       "snowy_fir_clearing": "2024-11-25 03:19:17 +0000",
       "snowy_coniferous_forest": "2024-11-30 02:38:29 +0000",
       "tundra": "2024-11-25 03:20:48 +0000",
@@ -774,6 +776,12 @@
   "quark:crawl_in_hollow_log": {
     "criteria": {
       "crawl_in_hollow_log": "2024-12-09 00:15:28 +0000"
+    },
+    "done": true
+  },
+  "illager_trader:illager_trade_advancement": {
+    "criteria": {
+      "illager_trade_advancement": "2024-12-09 01:58:37 +0000"
     },
     "done": true
   },

@@ -88,6 +88,7 @@
       "pumpkin_patch": "2024-11-16 06:46:47 +0000",
       "prairie": "2024-11-17 05:43:43 +0000",
       "grassland": "2024-12-01 04:46:55 +0000",
+      "snowy_fir_clearing": "2024-12-09 02:03:20 +0000",
       "glowing_grotto": "2024-11-19 22:55:30 +0000",
       "rainforest": "2024-11-21 19:34:30 +0000",
       "crag": "2024-11-17 06:41:31 +0000"
@@ -282,6 +283,7 @@
       "minecraft:river": "2024-11-16 06:49:26 +0000",
       "minecraft:lukewarm_ocean": "2024-11-17 05:34:09 +0000",
       "minecraft:stony_shore": "2024-11-17 05:32:29 +0000",
+      "minecraft:snowy_taiga": "2024-12-09 02:06:36 +0000",
       "minecraft:swamp": "2024-11-16 07:44:50 +0000",
       "minecraft:grove": "2024-11-17 06:35:22 +0000",
       "minecraft:jagged_peaks": "2024-11-17 06:34:57 +0000",
@@ -637,6 +639,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-09 01:45:43 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2024-12-09 01:23:30 +0000"
@@ -646,6 +654,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-09 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "illager_trader:illager_trade_advancement": {
+    "criteria": {
+      "illager_trade_advancement": "2024-12-09 02:07:02 +0000"
     },
     "done": true
   },
