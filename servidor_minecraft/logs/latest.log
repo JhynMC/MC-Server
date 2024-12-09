@@ -2793,3 +2793,67 @@
 [09Dec2024 00:47:26.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
 [09Dec2024 00:50:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> we:c la rais
 [09Dec2024 00:51:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 00:52:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no me la contes
+[09Dec2024 00:52:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pepe
+[09Dec2024 00:52:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> engase
+[09Dec2024 00:52:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 00:52:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepeowo]
+[09Dec2024 00:53:03.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 00:53:19.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> al de rojo primero
+[09Dec2024 00:54:23.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 00:56:08.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3607316129186984
+[09Dec2024 00:56:09.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5202784836062619
+[09Dec2024 00:56:09.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.29891750349815993
+[09Dec2024 00:56:09.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.29904683718245906
+[09Dec2024 00:56:10.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.29140102311134797
+[09Dec2024 00:56:10.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0247190428164004
+[09Dec2024 00:56:10.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.771400253353704
+[09Dec2024 00:56:13.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4135606702905079
+[09Dec2024 00:56:13.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8804847303626957
+[09Dec2024 00:56:14.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.5036295286366477
+[09Dec2024 00:56:22.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4023002467860124
+[09Dec2024 00:56:22.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.1744770023567526
+[09Dec2024 00:56:22.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.963150932074086
+[09Dec2024 00:56:25.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3070372409015301
+[09Dec2024 00:56:25.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0734246109932122
+[09Dec2024 00:56:25.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.8680043134227988
+[09Dec2024 00:56:28.982] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/92656, l='ServerLevel[world]', x=-508.80, y=161.85, z=2063.59]
+[09Dec2024 00:57:14.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4094619970653639
+[09Dec2024 00:57:14.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.2524743897155304
+[09Dec2024 00:57:14.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0242721985771368
+[09Dec2024 00:57:14.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.8136236741706853
+[09Dec2024 00:57:14.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6123677668501841
+[09Dec2024 00:57:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> abajo
+[09Dec2024 00:57:18.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.35542020204252367
+[09Dec2024 00:57:18.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8990618542129596
+[09Dec2024 00:57:18.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.5264422959132844
+[09Dec2024 00:57:24.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.49172083146027035
+[09Dec2024 00:57:24.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.1493381352080092
+[09Dec2024 00:57:24.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.9089655805887253
+[09Dec2024 00:57:30.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.2990342617491706
+[09Dec2024 00:57:30.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6528585503657496
+[09Dec2024 00:57:30.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8393015736816096
+[09Dec2024 00:57:36.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! 1.9474404419012217,1.0,10.311176084124327
+[09Dec2024 00:57:36.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! 2.0278269994965967,1.0,10.7359855142995
+[09Dec2024 00:57:36.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! 2.0708402437307996,1.0,10.963292570599833
+[09Dec2024 00:57:36.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! 2.0938557731290075,1.0,11.084920044412456
+[09Dec2024 00:57:48.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4598219721052601
+[09Dec2024 00:58:07.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.38648760611101807
+[09Dec2024 00:58:07.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6305228770509075
+[09Dec2024 00:58:07.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.27281337841395725
+[09Dec2024 00:58:16.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Sasha'/85744, l='ServerLevel[world]', x=-671.73, y=80.35, z=1860.04] died: Sasha tried to swim in lava
+[09Dec2024 00:59:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> arriba
+[09Dec2024 00:59:22.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.2555916070193689
+[09Dec2024 00:59:22.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8771653375201822
+[09Dec2024 00:59:22.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.5499997014219389
+[09Dec2024 00:59:22.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.9100199546758176
+[09Dec2024 00:59:34.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3000255695244505
+[09Dec2024 00:59:34.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0849280797770007
+[09Dec2024 00:59:34.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.8653217571211371
+[09Dec2024 00:59:44.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3734797800807428
+[09Dec2024 00:59:44.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.9468513010102697
+[09Dec2024 00:59:44.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.5724622236404002
+[09Dec2024 01:00:41.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Corrinne'/85627, l='ServerLevel[world]', x=-673.36, y=77.25, z=1857.09] died: Corrinne tried to swim in lava
+[09Dec2024 01:00:59.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 01:01:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[09Dec2024 01:02:20.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
