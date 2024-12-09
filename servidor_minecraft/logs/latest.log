@@ -6047,3 +6047,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Dec2024 06:37:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ohh eto era un wither
 [09Dec2024 06:38:29.079] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [09Dec2024 06:38:37.612] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[09Dec2024 06:43:48.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Who is Cutting Onions?]
+[09Dec2024 06:45:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si el centro da miedo
+[09Dec2024 06:50:21.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> UYY
