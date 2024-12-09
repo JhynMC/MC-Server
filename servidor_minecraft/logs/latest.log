@@ -2874,3 +2874,32 @@
 [09Dec2024 01:09:54.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.7617064451125088
 [09Dec2024 01:12:53.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
 [09Dec2024 01:12:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[09Dec2024 01:13:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aqui ta
+[09Dec2024 01:13:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:13:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aiuda
+[09Dec2024 01:14:13.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was slain by Vindicator
+[09Dec2024 01:14:20.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Pepeowo]
+[09Dec2024 01:14:22.150] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[09Dec2024 01:14:43.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:51177] logged in with entity id 103455 at (-615.4898355790095, 58.10522461954109, 1861.393621383456)
+[09Dec2024 01:14:43.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[09Dec2024 01:14:43.879] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[09Dec2024 01:15:18.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 01:15:22.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PriestEntity['Valentine'/101769, l='ServerLevel[world]', x=-643.70, y=77.94, z=1901.30] died: Valentine was slain by Vindicator
+[09Dec2024 01:16:43.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> perdi mis cosas
+[09Dec2024 01:16:53.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aquí Pepe
+[09Dec2024 01:16:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepi*
+[09Dec2024 01:16:59.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[09Dec2024 01:18:23.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Laure'/85525, l='ServerLevel[world]', x=-625.10, y=70.00, z=1911.39] died: Laure was slain by Vex
+[09Dec2024 01:18:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[09Dec2024 01:18:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:19:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[09Dec2024 01:19:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:20:34.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 01:20:35.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> y que cuantas son?
+[09Dec2024 01:21:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[09Dec2024 01:21:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 01:21:14.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to Pepishikita21]
+[09Dec2024 01:21:48.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> SON2 000
+[09Dec2024 01:22:25.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to JhynMC]
+[09Dec2024 01:22:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> UN KOPPAAA
+[09Dec2024 01:23:17.820] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player junior_mtz_ is cbef8e94-dfdd-4516-9309-ffb4e5452f4a
