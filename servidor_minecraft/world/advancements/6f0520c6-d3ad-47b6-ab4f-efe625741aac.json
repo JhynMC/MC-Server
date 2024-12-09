@@ -704,5 +704,11 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-09 02:15:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
