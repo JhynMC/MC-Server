@@ -85,7 +85,8 @@
       "apple": "2024-11-17 05:30:27 +0000",
       "potato": "2024-12-09 02:18:39 +0000",
       "mutton": "2024-12-09 01:57:30 +0000",
-      "bread": "2024-11-17 05:21:08 +0000"
+      "bread": "2024-11-17 05:21:08 +0000",
+      "golden_apple": "2024-12-09 04:08:27 +0000"
     },
     "done": false
   },
@@ -378,6 +379,48 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-09 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-09 04:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-09 04:12:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-09 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-09 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-09 04:16:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 04:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 04:16:51 +0000"
     },
     "done": true
   },

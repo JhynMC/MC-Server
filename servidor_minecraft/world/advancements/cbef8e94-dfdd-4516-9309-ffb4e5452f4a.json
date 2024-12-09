@@ -669,20 +669,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-09 03:54:08 +0000",
-      "minecraft:soul_sand_valley": "2024-12-09 03:55:43 +0000",
-      "minecraft:warped_forest": "2024-12-09 03:52:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-09 03:52:53 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-09 02:52:36 +0000"
@@ -695,15 +681,41 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 03:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-09 03:52:53 +0000"
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-09 03:54:08 +0000",
+      "minecraft:soul_sand_valley": "2024-12-09 03:55:43 +0000",
+      "minecraft:warped_forest": "2024-12-09 03:52:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-12-09 03:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-09 04:12:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-09 04:12:42 +0000"
     },
     "done": true
   },

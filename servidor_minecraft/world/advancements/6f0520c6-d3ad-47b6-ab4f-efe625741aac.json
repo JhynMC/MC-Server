@@ -180,9 +180,11 @@
       "apple": "2024-11-16 07:21:36 +0000",
       "pumpkin_pie": "2024-11-16 07:25:20 +0000",
       "bread": "2024-11-16 03:40:31 +0000",
+      "golden_apple": "2024-12-09 04:08:22 +0000",
       "rotten_flesh": "2024-11-16 05:26:11 +0000",
       "golden_carrot": "2024-12-09 03:03:50 +0000",
       "cooked_chicken": "2024-11-29 04:15:54 +0000",
+      "rabbit_stew": "2024-12-09 04:14:19 +0000",
       "cooked_salmon": "2024-12-09 01:15:53 +0000"
     },
     "done": false
@@ -718,6 +720,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-09 04:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-09 03:15:57 +0000"
@@ -727,6 +735,12 @@
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2024-12-09 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-09 04:16:13 +0000"
     },
     "done": true
   },
