@@ -769,6 +769,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2024-12-09 05:38:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2024-12-09 03:23:31 +0000"

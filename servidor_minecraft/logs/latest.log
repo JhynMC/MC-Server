@@ -5896,3 +5896,55 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [09Dec2024 05:28:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Madre dragona
 [09Dec2024 05:28:33.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -1843.500000, -3.500000, 2636.500000]
 [09Dec2024 05:28:42.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to JhynMC]
+[09Dec2024 05:29:18.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -1843.500000, -3.500000, 2636.500000]
+[09Dec2024 05:29:21.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 05:29:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> era arriba xD
+[09Dec2024 05:29:27.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to JhynMC]
+[09Dec2024 05:29:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> eléctrico
+[09Dec2024 05:30:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[09Dec2024 05:31:06.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/264371, l='ServerLevel[world]', x=-1855.23, y=-3.00, z=2622.93] died: JhynMC was energized by Lightning Dragon
+[09Dec2024 05:31:40.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/264400, l='ServerLevel[world]', x=-1872.91, y=-2.69, z=2621.66] died: JhynMC was energized by Lightning Dragon
+[09Dec2024 05:33:55.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -1875.500000, -2.500000, 2607.500000]
+[09Dec2024 05:35:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[09Dec2024 05:36:39.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepeowo'/265667, l='ServerLevel[world]', x=-1867.41, y=-6.00, z=2621.45] died: Pepeowo was energized by Lightning Dragon
+[09Dec2024 05:36:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -1845.500000, -3.500000, 2630.500000]
+[09Dec2024 05:37:16.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/265795, l='ServerLevel[world]', x=-1860.58, y=-6.00, z=2615.41] died: JhynMC was slain by junior_mtz_
+[09Dec2024 05:37:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[09Dec2024 05:37:25.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/265820, l='ServerLevel[world]', x=-1860.82, y=-6.00, z=2615.70] died: JhynMC was slain by JhynMC
+[09Dec2024 05:37:25.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['junior_mtz_'/265829, l='ServerLevel[world]', x=-1860.14, y=-6.00, z=2615.32] died: junior_mtz_ was slain by JhynMC
+[09Dec2024 05:37:31.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/265857, l='ServerLevel[world]', x=-1861.61, y=-6.00, z=2612.18] died: JhynMC was slain by JhynMC
+[09Dec2024 05:37:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [For a Friend In Need]
+[09Dec2024 05:38:29.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepeowo'/265939, l='ServerLevel[world]', x=-1847.44, y=-3.00, z=2626.28] died: Pepeowo was shattered by JhynMC
+[09Dec2024 05:38:37.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/266000, l='ServerLevel[world]', x=-1848.35, y=-4.00, z=2626.98] died: JhynMC was slain by JhynMC
+[09Dec2024 05:38:48.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['junior_mtz_'/266090, l='ServerLevel[world]', x=-1848.49, y=-3.00, z=2617.67] died: junior_mtz_ was slain by JhynMC
+[09Dec2024 05:38:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[09Dec2024 05:38:54.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepeowo'/265999, l='ServerLevel[world]', x=-1857.47, y=-13.75, z=2666.74] died: Pepeowo was slain by Pepeowo
+[09Dec2024 05:38:57.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/266025, l='ServerLevel[world]', x=-1854.41, y=-4.00, z=2617.85] died: JhynMC was slain by JhynMC
+[09Dec2024 05:39:02.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['JhynMC'/266039, l='ServerLevel[world]', x=-1863.50, y=-3.00, z=2618.05] died: JhynMC was slain by JhynMC
+[09Dec2024 05:39:37.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['JhynMC'/266129, l='ServerLevel[world]', x=-1869.70, y=0.00, z=2634.44] died: JhynMC was slain by junior_mtz_
+[09Dec2024 05:39:37.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['junior_mtz_'/266059, l='ServerLevel[world]', x=-1871.22, y=-4.00, z=2613.42] died: junior_mtz_ was slain by JhynMC
+[09Dec2024 05:39:38.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[09Dec2024 05:39:38.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['junior_mtz_'/266013, l='ServerLevel[world]', x=-1872.81, y=0.63, z=2633.74] died: junior_mtz_ was slain by junior_mtz_
+[09Dec2024 05:39:39.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/266223, l='ServerLevel[world]', x=-1870.38, y=-5.00, z=2612.48] died: JhynMC was slain by JhynMC
+[09Dec2024 05:39:41.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/266381, l='ServerLevel[world]', x=-1870.32, y=-6.00, z=2616.54] died: JhynMC was slain by JhynMC
+[09Dec2024 05:39:42.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['JhynMC'/266299, l='ServerLevel[world]', x=-1868.53, y=-1.00, z=2633.53] died: JhynMC was slain by junior_mtz_
+[09Dec2024 05:40:58.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -1845.500000, -3.500000, 2630.500000]
+[09Dec2024 05:41:09.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/266894, l='ServerLevel[world]', x=-1848.50, y=-6.00, z=2671.88] died: JhynMC was slain by junior_mtz_
+[09Dec2024 05:41:28.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepeowo to JhynMC]
+[09Dec2024 05:42:10.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 64 [Dragon Bone Arrow] to JhynMC]
+[09Dec2024 05:42:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 64 [Dragon Bone Arrow] to JhynMC]
+[09Dec2024 05:44:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[09Dec2024 05:44:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -573.500000, 200.000000, 1340.500000]
+[09Dec2024 05:44:09.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Creative Mode]
+[09Dec2024 05:44:10.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Spectator Mode]
+[09Dec2024 05:44:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Survival Mode]
+[09Dec2024 05:44:13.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[09Dec2024 05:44:46.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> te quedó el casco?
+[09Dec2024 05:44:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[09Dec2024 05:45:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pasalo
+[09Dec2024 05:45:20.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El mio si valio cheto
+[09Dec2024 05:45:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[09Dec2024 05:45:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[09Dec2024 05:46:41.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[09Dec2024 05:46:56.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Qué se siente ser tan horrendo
+[09Dec2024 05:47:52.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> se ve un poco mugriento
