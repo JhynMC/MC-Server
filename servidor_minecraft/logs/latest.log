@@ -6063,3 +6063,27 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Dec2024 07:09:32.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=79, z=168} BlockPos{x=-479, y=78, z=168}
 [09Dec2024 07:09:32.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=79, z=168} BlockPos{x=-479, y=78, z=168}
 [09Dec2024 07:09:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[09Dec2024 07:11:48.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero xD
+[09Dec2024 07:16:51.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[09Dec2024 07:17:08.684] [Worker-Main-449/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -713 0 386
+[09Dec2024 07:17:12.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=112, z=264} BlockPos{x=-497, y=113, z=265}
+[09Dec2024 07:17:36.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[09Dec2024 07:17:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -42.500000, 82.500000, 136.500000]
+[09Dec2024 07:17:54.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[09Dec2024 07:17:57.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> va
+[09Dec2024 07:18:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Igual no tardo en irme xD
+[09Dec2024 07:18:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Aiioos Pepitooo
+[09Dec2024 07:18:16.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[09Dec2024 07:18:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[09Dec2024 07:18:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[09Dec2024 07:18:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[09Dec2024 07:18:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[09Dec2024 07:19:29.558] [Worker-Main-452/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -277 0 510
+[09Dec2024 07:19:34.345] [Worker-Main-449/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -52 0 531
+[09Dec2024 07:19:37.757] [Worker-Main-81/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -27 0 522
+[09Dec2024 07:20:21.631] [Worker-Main-449/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -824 0 181
+[09Dec2024 07:20:22.455] [Worker-Main-449/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -827 0 -7
+[09Dec2024 07:20:24.434] [Worker-Main-449/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -846 0 347
+[09Dec2024 07:20:25.047] [Worker-Main-81/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -760 0 -25
+[09Dec2024 07:20:27.852] [Worker-Main-452/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -722 0 -39
+[09Dec2024 07:20:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
