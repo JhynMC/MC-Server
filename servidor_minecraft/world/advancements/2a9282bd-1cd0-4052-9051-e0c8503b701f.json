@@ -86,7 +86,9 @@
       "potato": "2024-12-09 02:18:39 +0000",
       "mutton": "2024-12-09 01:57:30 +0000",
       "bread": "2024-11-17 05:21:08 +0000",
-      "golden_apple": "2024-12-09 04:08:27 +0000"
+      "golden_apple": "2024-12-09 04:08:27 +0000",
+      "rotten_flesh": "2024-12-09 04:38:51 +0000",
+      "golden_carrot": "2024-12-09 04:47:33 +0000"
     },
     "done": false
   },
@@ -427,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-09 04:42:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-09 04:19:18 +0000"
@@ -448,6 +456,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-09 04:20:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-09 04:46:46 +0000"
     },
     "done": true
   },
