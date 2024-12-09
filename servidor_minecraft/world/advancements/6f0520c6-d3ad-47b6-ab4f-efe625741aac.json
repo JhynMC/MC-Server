@@ -178,6 +178,7 @@
       "pumpkin_pie": "2024-11-16 07:25:20 +0000",
       "bread": "2024-11-16 03:40:31 +0000",
       "rotten_flesh": "2024-11-16 05:26:11 +0000",
+      "golden_carrot": "2024-12-09 03:03:50 +0000",
       "cooked_chicken": "2024-11-29 04:15:54 +0000",
       "cooked_salmon": "2024-12-09 01:15:53 +0000"
     },
@@ -702,6 +703,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-09 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-09 03:02:46 +0000"
     },
     "done": true
   },

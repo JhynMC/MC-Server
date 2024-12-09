@@ -1014,6 +1014,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-09 02:57:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-09 02:37:54 +0000"
