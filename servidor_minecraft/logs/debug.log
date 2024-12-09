@@ -22170,3 +22170,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [09Dec2024 04:27:42.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [09Dec2024 04:28:04.163] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [3f2294df-8b7e-46c2-a4b1-0711298c5e35]
 [09Dec2024 04:28:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero no come xD
+[09Dec2024 04:28:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No me deja
+[09Dec2024 04:28:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> dele aver
+[09Dec2024 04:28:39.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Playing With Fire]
+[09Dec2024 04:29:09.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[09Dec2024 04:29:11.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:29:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[09Dec2024 04:29:44.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> gracias Pepe
+[09Dec2024 04:30:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ese Don explota
+[09Dec2024 04:30:09.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Muy feo
+[09Dec2024 04:30:10.513] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:30:43.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> dele clic derecho con la estrella Yashi
+[09Dec2024 04:30:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[09Dec2024 04:31:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Espera
+[09Dec2024 04:31:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Withering Treasures]
+[09Dec2024 04:31:49.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Atrás que explota eh
+[09Dec2024 04:32:02.663] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:32:06.016] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:32:06.017] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:32:08.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 04:32:08.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 04:32:37.697] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [4959d6d2-d9e5-4f31-9b12-e217706cdd36]
+[09Dec2024 04:32:47.514] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [2a9282bd-1cd0-4052-9051-e0c8503b701f]
+[09Dec2024 04:32:53.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:33:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [The Thing of Ancient Civilization]
+[09Dec2024 04:33:29.567] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:33:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> debió soltar un bloque
+[09Dec2024 04:33:41.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ese lo dividen para lingotes
+[09Dec2024 04:34:36.713] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:34:48.461] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: cbef8e94-dfdd-4516-9309-ffb4e5452f4a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=42a27aa5-0000-0000-0000-000000000000, length=281, extra={valid=false}}, startingAt=0, player=null}
+[09Dec2024 04:34:51.767] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: cbef8e94-dfdd-4516-9309-ffb4e5452f4a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=42a27aa5-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[09Dec2024 04:34:53.455] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: cbef8e94-dfdd-4516-9309-ffb4e5452f4a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=42a27aa5-0000-0000-0000-000000000000, length=281, extra={valid=false}}, startingAt=0, player=null}
+[09Dec2024 04:34:55.323] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: cbef8e94-dfdd-4516-9309-ffb4e5452f4a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=42a27aa5-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[09Dec2024 04:35:05.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> podemos hacer ojos
+[09Dec2024 04:35:12.417] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:35:18.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:36:45.621] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 04:37:08.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 04:37:08.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

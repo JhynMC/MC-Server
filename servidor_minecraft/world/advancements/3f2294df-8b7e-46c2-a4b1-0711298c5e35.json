@@ -1022,6 +1022,24 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-09 04:31:16 +0000"
+    },
+    "done": true
+  },
+  "quark:tame_foxhound": {
+    "criteria": {
+      "tame_foxhound": "2024-12-09 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-09 04:33:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-09 02:37:54 +0000"
