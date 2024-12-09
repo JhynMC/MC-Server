@@ -6019,3 +6019,17 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Dec2024 06:19:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
 [09Dec2024 06:19:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] w
 [09Dec2024 06:19:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ah no sé xD
+[09Dec2024 06:21:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> PEPEPEEE
+[09Dec2024 06:23:01.035] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[09Dec2024 06:23:26.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Loch-Nether Monster!]
+[09Dec2024 06:23:48.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Quire el logro?
+[09Dec2024 06:24:04.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> verlo con un catalejo
+[09Dec2024 06:24:20.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has completed the challenge [Loch-Nether Monster!]
+[09Dec2024 06:24:49.984] [Worker-Main-383/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -591 0 151
+[09Dec2024 06:24:57.139] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[09Dec2024 06:25:16.478] [Worker-Main-383/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -612 0 281
+[09Dec2024 06:25:16.718] [Worker-Main-81/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -622 0 121
+[09Dec2024 06:25:16.734] [Worker-Main-383/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -616 0 335
+[09Dec2024 06:26:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nombre xD
+[09Dec2024 06:27:11.439] [Worker-Main-81/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -638 0 -38
+[09Dec2024 06:30:05.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already

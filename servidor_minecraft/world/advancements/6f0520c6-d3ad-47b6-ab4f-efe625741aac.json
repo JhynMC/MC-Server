@@ -775,6 +775,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/laviathan_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2024-12-09 06:24:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2024-12-09 03:23:30 +0000"

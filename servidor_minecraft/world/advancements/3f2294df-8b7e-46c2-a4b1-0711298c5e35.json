@@ -70,6 +70,7 @@
       "cold_desert": "2024-11-15 03:12:35 +0000",
       "old_growth_woodland": "2024-11-21 19:28:02 +0000",
       "maple_woods": "2024-11-15 03:27:51 +0000",
+      "crystalline_chasm": "2024-12-09 06:21:39 +0000",
       "field": "2024-11-16 06:47:06 +0000",
       "lavender_forest": "2024-12-09 00:58:16 +0000",
       "mediterranean_forest": "2024-11-20 00:09:54 +0000",
@@ -176,6 +177,7 @@
       "minecraft:wither_skeleton": "2024-11-18 23:24:58 +0000",
       "minecraft:husk": "2024-11-16 05:54:45 +0000",
       "minecraft:cave_spider": "2024-11-16 04:34:00 +0000",
+      "quark:wraith": "2024-12-09 06:26:27 +0000",
       "minecraft:stray": "2024-11-16 05:56:43 +0000",
       "minecraft:enderman": "2024-11-17 03:42:11 +0000",
       "minecraft:vex": "2024-11-30 03:12:35 +0000",
@@ -942,6 +944,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-02 06:24:08 +0000",
       "minecraft:nether_wastes": "2024-12-09 04:16:50 +0000",
+      "minecraft:soul_sand_valley": "2024-12-09 06:23:15 +0000",
       "minecraft:warped_forest": "2024-12-02 06:20:03 +0000"
     },
     "done": false
@@ -1075,6 +1078,12 @@
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-09 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/laviathan_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2024-12-09 06:23:26 +0000"
     },
     "done": true
   },
