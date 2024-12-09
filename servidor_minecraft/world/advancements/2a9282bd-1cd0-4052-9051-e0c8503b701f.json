@@ -159,9 +159,12 @@
       "minecraft:blaze": "2024-12-09 02:10:07 +0000",
       "minecraft:skeleton": "2024-11-17 05:36:28 +0000",
       "minecraft:spider": "2024-11-17 06:41:57 +0000",
+      "minecraft:wither": "2024-12-09 04:20:15 +0000",
       "minecraft:witch": "2024-12-09 03:37:56 +0000",
+      "minecraft:wither_skeleton": "2024-12-09 04:17:45 +0000",
       "minecraft:husk": "2024-11-17 06:58:44 +0000",
       "minecraft:cave_spider": "2024-12-09 02:56:06 +0000",
+      "minecraft:piglin": "2024-12-09 04:21:16 +0000",
       "minecraft:zombie": "2024-11-17 06:36:51 +0000"
     },
     "done": false
@@ -400,6 +403,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-09 04:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-12-09 04:15:34 +0000"
@@ -418,9 +427,27 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-09 04:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-09 04:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-09 04:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-09 04:20:30 +0000"
     },
     "done": true
   },

@@ -196,6 +196,7 @@
       "minecraft:spider": "2024-11-16 06:19:40 +0000",
       "minecraft:creeper": "2024-11-16 05:56:19 +0000",
       "minecraft:phantom": "2024-12-09 02:24:44 +0000",
+      "minecraft:zombified_piglin": "2024-12-09 04:20:09 +0000",
       "minecraft:witch": "2024-11-16 04:35:44 +0000",
       "minecraft:wither_skeleton": "2024-12-09 01:40:42 +0000",
       "minecraft:husk": "2024-11-16 06:40:28 +0000",
@@ -716,6 +717,24 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-09 04:12:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-09 04:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-09 04:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-09 04:20:26 +0000"
     },
     "done": true
   },
