@@ -792,5 +792,11 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2024-12-10 02:10:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
