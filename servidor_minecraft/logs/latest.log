@@ -2987,3 +2987,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 03:51:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
 [10Dec2024 03:51:56.120] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
 [10Dec2024 03:51:57.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[10Dec2024 04:20:56.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5178574949908352
+[10Dec2024 04:20:56.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.1722689089244795
+[10Dec2024 04:20:56.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.8708609982121653
+[10Dec2024 04:30:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] u.u
