@@ -3109,3 +3109,42 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 06:07:54.801] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [10Dec2024 06:07:54.801] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [10Dec2024 06:09:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hipogrifooos
+[10Dec2024 06:12:19.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ajá
+[10Dec2024 06:12:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> FUAH
+[10Dec2024 06:13:07.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Con Gondar matamos a un esqueleto
+[10Dec2024 06:13:18.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El Rey Disecado o algo así
+[10Dec2024 06:15:39.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Aver el báculo
+[10Dec2024 06:19:09.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahh Pepe hay un mod de Iron Spellbocks x Ice And Fire, da armaduras de dragon para mago, hechizos y creo que un libro, esta muy bueno pero no sé si ponerlo
+[10Dec2024 06:21:01.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Currucucu
+[10Dec2024 06:23:38.966] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Dec2024 06:23:38.970] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Dec2024 06:23:44.610] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-89, y=-57, z=2569}
+[10Dec2024 06:24:05.072] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-89, y=-57, z=2569}
+[10Dec2024 06:28:35.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ah para esa tiene que matar a un crepper bajo la luz solar o algo así
+[10Dec2024 06:28:52.786] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[10Dec2024 06:28:52.787] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Dec2024 06:28:52.787] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[10Dec2024 06:28:52.787] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[10Dec2024 06:28:52.787] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Dec2024 06:28:52.787] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Dec2024 06:28:52.787] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Dec2024 06:29:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepeee casi se me acaban las horas del server
+[10Dec2024 06:29:26.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Me da unos 10 minutos y reinicio?
+[10Dec2024 06:29:32.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> va
+[10Dec2024 06:29:34.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[10Dec2024 06:29:34.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[10Dec2024 06:29:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 06:29:38.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 06:29:38.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 06:29:38.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Server closed
+[10Dec2024 06:29:38.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[10Dec2024 06:29:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 06:29:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 06:29:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 06:29:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Dec2024 06:29:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 06:29:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 06:29:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 06:29:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Dec2024 06:29:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 06:29:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
