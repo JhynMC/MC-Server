@@ -2991,3 +2991,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 04:20:56.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.1722689089244795
 [10Dec2024 04:20:56.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.8708609982121653
 [10Dec2024 04:30:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] u.u
+[10Dec2024 04:55:43.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.41190736460612243
+[10Dec2024 04:55:43.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0782384603280661
+[10Dec2024 04:55:43.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.5400665726385796
+[10Dec2024 04:56:07.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.40826836728911076
+[10Dec2024 04:56:07.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8549091593542926
+[10Dec2024 04:56:07.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3849357586280646
+[10Dec2024 04:57:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :p
