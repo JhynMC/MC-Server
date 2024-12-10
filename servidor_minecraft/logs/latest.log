@@ -6385,3 +6385,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 02:44:36.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Me ire a lol
 [10Dec2024 02:44:40.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
 [10Dec2024 02:44:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[10Dec2024 02:59:59.399] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[10Dec2024 03:00:08.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:42763] logged in with entity id 113134 at (-4770.046671234227, 63.0, -3969.9999885948364)
+[10Dec2024 03:00:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[10Dec2024 03:00:09.092] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[10Dec2024 03:02:06.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5086, y=65, z=-3808} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5087, y=65, z=-3808} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5087, y=66, z=-3808} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5087, y=66, z=-3808} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5088, y=67, z=-3808} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5088, y=67, z=-3808} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5086, y=64, z=-3809} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5086, y=65, z=-3809} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:02:06.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5086, y=65, z=-3809} BlockPos{x=-5086, y=64, z=-3808}
+[10Dec2024 03:04:37.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[10Dec2024 03:04:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game

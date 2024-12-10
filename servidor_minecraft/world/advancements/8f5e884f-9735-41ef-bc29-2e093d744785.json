@@ -939,5 +939,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-10 03:02:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
