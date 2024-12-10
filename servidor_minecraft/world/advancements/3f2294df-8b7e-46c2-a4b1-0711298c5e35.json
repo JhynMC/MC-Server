@@ -72,6 +72,7 @@
       "maple_woods": "2024-11-15 03:27:51 +0000",
       "crystalline_chasm": "2024-12-09 06:21:39 +0000",
       "field": "2024-11-16 06:47:06 +0000",
+      "orchard": "2024-12-10 06:39:43 +0000",
       "lavender_forest": "2024-12-09 00:58:16 +0000",
       "moor": "2024-12-10 06:23:50 +0000",
       "mediterranean_forest": "2024-11-20 00:09:54 +0000",
@@ -1133,6 +1134,24 @@
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-10 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_helmet": {
+    "criteria": {
+      "froststalker_helmet": "2024-12-10 07:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2024-12-10 07:56:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-10 06:59:09 +0000"
     },
     "done": true
   },
