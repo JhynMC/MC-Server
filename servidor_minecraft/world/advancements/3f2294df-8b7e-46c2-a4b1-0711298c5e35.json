@@ -1120,5 +1120,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2024-12-10 01:03:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
