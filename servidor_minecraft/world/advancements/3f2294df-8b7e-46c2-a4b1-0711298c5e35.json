@@ -1024,75 +1024,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-09 06:43:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/jar_pixie": {
-    "criteria": {
-      "jar": "2024-12-09 02:57:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-12-09 05:56:46 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_healed_other": {
-    "criteria": {
-      "bleeding_healed": "2024-12-09 05:37:40 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:wither_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2024-12-09 04:31:16 +0000"
-    },
-    "done": true
-  },
-  "quark:tame_foxhound": {
-    "criteria": {
-      "tame_foxhound": "2024-12-09 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_harbinger": {
-    "criteria": {
-      "theharbinger": "2024-12-09 04:33:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2024-12-09 02:37:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-12-09 04:19:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-09 01:42:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2024-12-09 02:35:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/laviathan_spyglass": {
-    "criteria": {
-      "spyglass_at_bison": "2024-12-09 06:23:26 +0000"
     },
     "done": true
   },
@@ -1102,9 +1036,51 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "frostmaw": "2024-12-09 07:23:47 +0000"
+      "bestiary": "2024-12-09 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-09 02:35:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-09 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-09 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-09 04:19:18 +0000"
+    },
+    "done": true
+  },
+  "quark:tame_foxhound": {
+    "criteria": {
+      "tame_foxhound": "2024-12-09 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-09 04:31:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-09 04:33:01 +0000"
     },
     "done": true
   },
@@ -1114,9 +1090,33 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "majruszsdifficulty:bleeding_healed_other": {
     "criteria": {
-      "bestiary": "2024-12-09 02:35:27 +0000"
+      "bleeding_healed": "2024-12-09 05:37:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-09 05:56:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/laviathan_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2024-12-09 06:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-09 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-09 07:23:47 +0000"
     },
     "done": true
   },
