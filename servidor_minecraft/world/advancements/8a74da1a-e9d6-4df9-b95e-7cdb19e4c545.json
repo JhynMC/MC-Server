@@ -138,6 +138,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-17 06:42:00 +0000",
+      "minecraft:deep_ocean": "2024-12-10 01:41:04 +0000",
       "minecraft:frozen_river": "2024-11-16 02:24:37 +0000",
       "minecraft:birch_forest": "2024-11-21 04:58:04 +0000",
       "minecraft:windswept_hills": "2024-11-21 05:14:29 +0000",
@@ -782,6 +783,12 @@
   "illager_trader:illager_trade_advancement": {
     "criteria": {
       "illager_trade_advancement": "2024-12-09 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 01:43:25 +0000"
     },
     "done": true
   },
