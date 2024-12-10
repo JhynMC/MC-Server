@@ -2998,3 +2998,31 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 04:56:07.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8549091593542926
 [10Dec2024 04:56:07.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3849357586280646
 [10Dec2024 04:57:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :p
+[10Dec2024 05:00:34.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.44095282498926736
+[10Dec2024 05:00:34.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.3121743014917797
+[10Dec2024 05:00:48.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5020845919946169
+[10Dec2024 05:00:48.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.298128052556649
+[10Dec2024 05:00:48.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3201261885724307
+[10Dec2024 05:00:48.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4721101001741772
+[10Dec2024 05:00:49.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4318600210688146
+[10Dec2024 05:00:49.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.39975584379408247
+[10Dec2024 05:00:49.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.28565454329531864
+[10Dec2024 05:00:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.976318375248031
+[10Dec2024 05:00:49.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5586740204951184
+[10Dec2024 05:01:45.137] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-79, y=26, z=1789}
+[10Dec2024 05:01:46.191] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-62, y=-29, z=1838}
+[10Dec2024 05:01:53.825] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=4, y=-11, z=1807}
+[10Dec2024 05:01:53.826] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=5, y=-11, z=1807}
+[10Dec2024 05:01:53.827] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=6, y=-11, z=1807}
+[10Dec2024 05:01:56.185] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-110, y=3, z=1703}
+[10Dec2024 05:03:26.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo was slain by Cyclops
+[10Dec2024 05:03:32.176] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18199823[id=<null>,name=JhynMC,properties={},legacy=false] (/127.242.210.13:34203) lost connection: Disconnected
+[10Dec2024 05:03:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -218.500000, 68.500000, 1718.500000]
+[10Dec2024 05:04:17.393] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[10Dec2024 05:04:39.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:53085] logged in with entity id 30105 at (-3990.1357754076084, 124.0, -4073.070087161714)
+[10Dec2024 05:04:39.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[10Dec2024 05:04:39.119] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[10Dec2024 05:05:07.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [My Name is Nobody]
+[10Dec2024 05:07:27.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[10Dec2024 05:07:37.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> oaaaaaaaaaaa jhyyyyyyyyyyyyyyyyn
+[10Dec2024 05:07:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Holiiiiii Pepeeeee
