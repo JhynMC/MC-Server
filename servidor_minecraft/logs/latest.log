@@ -5974,3 +5974,128 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 01:12:06.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El qué?
 [10Dec2024 01:15:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya toi
 [10Dec2024 01:15:46.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Va, mientras como
+[10Dec2024 01:16:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] parema se me trabó xD
+[10Dec2024 01:18:12.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a we, que buenos estan los tamales
+[10Dec2024 01:18:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> :)
+[10Dec2024 01:18:35.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que?
+[10Dec2024 01:18:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ahora que hice?
+[10Dec2024 01:18:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No quieres que coma?
+[10Dec2024 01:19:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Tons por que me pegas y me pones :)
+[10Dec2024 01:20:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya
+[10Dec2024 01:20:58.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[10Dec2024 01:21:22.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya
+[10Dec2024 01:21:26.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Al jefe que vamos es a distacia, así lleven un bune arco y flechas
+[10Dec2024 01:21:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vava
+[10Dec2024 01:22:03.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ambos
+[10Dec2024 01:22:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> los tengo tenkiu
+[10Dec2024 01:22:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No
+[10Dec2024 01:22:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Infini
+[10Dec2024 01:23:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> huevos
+[10Dec2024 01:23:50.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[10Dec2024 01:24:35.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> zi
+[10Dec2024 01:24:58.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es en bioma navado
+[10Dec2024 01:25:35.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
+[10Dec2024 01:25:35.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[10Dec2024 01:26:09.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[10Dec2024 01:26:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pera que?
+[10Dec2024 01:26:49.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> me tepee a ti y no tas
+[10Dec2024 01:26:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pero
+[10Dec2024 01:27:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[10Dec2024 01:27:15.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ah, se me cerró xD
+[10Dec2024 01:28:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No
+[10Dec2024 01:28:30.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-572, y=202, z=1325} BlockPos{x=-1193, y=61, z=88}
+[10Dec2024 01:28:30.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-572, y=202, z=1325} BlockPos{x=-1193, y=61, z=87}
+[10Dec2024 01:28:39.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1193, y=56, z=86} BlockPos{x=-1194, y=58, z=87}
+[10Dec2024 01:28:40.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1193, y=56, z=86} BlockPos{x=-1195, y=58, z=87}
+[10Dec2024 01:29:48.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sip, en bioma de nieve esta una torre
+[10Dec2024 01:30:41.322] [Worker-Main-38/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-991, y=37, z=-183}
+[10Dec2024 01:30:41.323] [Worker-Main-38/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-991, y=37, z=-182}
+[10Dec2024 01:30:41.323] [Worker-Main-38/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-991, y=38, z=-182}
+[10Dec2024 01:30:41.323] [Worker-Main-38/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-991, y=37, z=-181}
+[10Dec2024 01:30:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[10Dec2024 01:31:34.006] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[10Dec2024 01:31:52.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:33433] logged in with entity id 48000 at (-582.5022516144771, 77.0, 927.5760208019705)
+[10Dec2024 01:31:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[10Dec2024 01:31:53.053] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[10Dec2024 01:31:53.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.497231512661529,0.0,-3.73918598047419
+[10Dec2024 01:31:53.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.853978875517214,0.0,-4.27335540117042
+[10Dec2024 01:31:53.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.210726239026371,0.0,-4.80752482101542
+[10Dec2024 01:31:53.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -13.567473603111921,0.0,-5.341694240109689
+[10Dec2024 01:31:53.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -14.92422096770565,0.0,-5.875863658541732
+[10Dec2024 01:31:53.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -16.28096833274776,0.0,-6.410033076389766
+[10Dec2024 01:31:53.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.637715698185275,0.0,-6.944202493722685
+[10Dec2024 01:31:53.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -18.99446306397158,0.0,-7.478371910601254
+[10Dec2024 01:31:53.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -20.31384560719016,0.0,-8.065131666161335
+[10Dec2024 01:31:53.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -21.60027237690383,0.0,-8.698276100438534
+[10Dec2024 01:31:53.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -22.857632154386238,0.0,-9.372331821344233
+[10Dec2024 01:31:53.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -15.948870694174275,0.0,-6.877454738243387
+[10Dec2024 01:31:54.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.15798147364444,0.0,-7.619420085694571
+[10Dec2024 01:32:15.346] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2219, y=-30, z=-705}
+[10Dec2024 01:32:18.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[10Dec2024 01:32:21.906] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[10Dec2024 01:32:33.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No
+[10Dec2024 01:32:43.080] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2415, y=-15, z=-690}
+[10Dec2024 01:32:44.325] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2162, y=6, z=-751}
+[10Dec2024 01:32:44.325] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2161, y=6, z=-751}
+[10Dec2024 01:32:48.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 01:32:52.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.164572502862939,-0.2738856454418084,-4.468676085917082
+[10Dec2024 01:32:52.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.403677775404049,-0.29256084521357195,-5.022135480247471
+[10Dec2024 01:32:52.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.650504730017929,-0.3090323714122576,-5.5871469127349656
+[10Dec2024 01:32:52.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.896374331696734,-0.3235602575195031,-6.176254127075254
+[10Dec2024 01:32:52.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -14.130228697409166,-0.33637385306609247,-6.802521569418559
+[10Dec2024 01:32:52.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -15.346271279212942,-0.3476754443381793,-7.470108020202019
+[10Dec2024 01:32:52.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -16.543862486709713,-0.3576434478401609,-8.177107286636897
+[10Dec2024 01:32:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.724634366807095,-0.36643522692891395,-8.91944283650264
+[10Dec2024 01:32:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -18.885796450120324,-0.3741895760851861,-9.697757204440563
+[10Dec2024 01:32:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -20.012433698464065,-0.3810289120410175,-10.522430161920852
+[10Dec2024 01:32:52.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -21.088770501008185,-0.38706120635406194,-11.400702278516178
+[10Dec2024 01:32:52.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -22.100404143028754,-0.39238168993817624,-12.335718961847874
+[10Dec2024 01:32:52.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -23.04702504182478,-0.3970743564593562,-13.32364830814106
+[10Dec2024 01:32:52.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -23.936226439279835,-0.40121328833103576,-14.35827265921921
+[10Dec2024 01:32:52.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -24.774783836551705,-0.4048638262418649,-15.434082004517677
+[10Dec2024 01:32:52.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -25.568673225662224,-0.40808360067921967,-16.54621651471848
+[10Dec2024 01:32:52.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -26.323165431574125,-0.40808360067921967,-17.690389820363066
+[10Dec2024 01:32:52.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -27.042909321904972,-0.40808360067921967,-18.86282134358919
+[10Dec2024 01:32:52.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -27.732005197893614,-0.40808360067921967,-20.060176614722195
+[10Dec2024 01:32:52.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -20.455148295018716,-0.15537165112375817,-17.361327192917088
+[10Dec2024 01:32:52.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -21.093370796447743,-0.15537165112375817,-18.6000539913706
+[10Dec2024 01:32:52.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -21.707550333978816,-0.15537165112375817,-19.856853188791206
+[10Dec2024 01:32:52.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -22.294093668236656,-0.15537165112375817,-21.131462892023592
+[10Dec2024 01:33:15.494] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2131, y=26, z=-791}
+[10Dec2024 01:33:21.783] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element bosses_of_mass_destruction:lich_tower took 0 ms
+[10Dec2024 01:33:24.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 01:33:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[10Dec2024 01:34:06.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 01:34:15.332] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 01:34:19.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 01:34:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[10Dec2024 01:34:26.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -4.293392569860316,1.1836072990654571,-9.778247673158603
+[10Dec2024 01:34:26.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -5.067973060388795,1.2643128896257139,-10.895501045368519
+[10Dec2024 01:34:26.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -5.89324259043542,1.3354952204998654,-11.977946270319535
+[10Dec2024 01:34:26.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -6.766412787021636,1.398278036330865,-13.024841197812975
+[10Dec2024 01:34:26.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -7.683185083387798,1.4536524798938046,-14.038211699560634
+[10Dec2024 01:34:26.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.64559627727067,1.5024927391163203,-15.009100769829047
+[10Dec2024 01:34:26.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.6609433253534,1.5455698477505848,-15.908800584347318
+[10Dec2024 01:34:26.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.727484722941881,1.5835638575660056,-16.72133603985526
+[10Dec2024 01:34:26.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.839973035392632,1.6170745742231958,-17.447426061435635
+[10Dec2024 01:34:26.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.993005174499103,1.64663102631485,-18.096925302363616
+[10Dec2024 01:34:26.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -14.181796968715389,1.67269981705968,-18.678871474756306
+[10Dec2024 01:34:26.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -15.402128778738643,1.6956924904966257,-19.201235840700747
+[10Dec2024 01:34:26.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -16.650278882703788,1.7159720284680162,-19.67104905335782
+[10Dec2024 01:34:26.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.922964721925837,1.7338585809587812,-20.094512148815284
+[10Dec2024 01:34:26.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -15.646183527554967,0.6575301583333157,-11.848345279886644
+[10Dec2024 01:34:26.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -16.814210082606223,0.6714445367931319,-12.123730790375248
+[10Dec2024 01:34:26.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.866197645146258,0.6837170185946917,-12.302790418972108
+[10Dec2024 01:34:27.412] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 01:34:50.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> emmmm
+[10Dec2024 01:34:56.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> me aiudan?
+[10Dec2024 01:35:06.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[10Dec2024 01:35:18.482] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 01:35:21.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[10Dec2024 01:35:22.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was slain by Sea Serpent
+[10Dec2024 01:35:26.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 01:35:26.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -7.456650147563323,0.0,-6.68685453970329
+[10Dec2024 01:35:26.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.003081912629114,0.0,-7.176886577055484
+[10Dec2024 01:35:26.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.610566649080283,0.0,-7.7216703577544195
+[10Dec2024 01:35:35.636] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[10Dec2024 01:35:39.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
