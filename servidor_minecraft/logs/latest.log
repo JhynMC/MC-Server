@@ -6144,3 +6144,81 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [10Dec2024 01:45:33.698] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
 [10Dec2024 01:46:06.440] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [10Dec2024 01:46:10.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 01:46:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yr
+[10Dec2024 01:47:59.801] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Dec2024 01:47:59.801] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Dec2024 01:47:59.801] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Dec2024 01:47:59.801] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[10Dec2024 01:48:13.438] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Dec2024 01:48:13.440] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Dec2024 01:48:13.440] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Dec2024 01:48:13.440] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[10Dec2024 01:48:13.440] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[10Dec2024 01:48:18.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jacklyn'/89932, l='ServerLevel[world]', x=-3809.63, y=101.56, z=-4043.28] died, message: 'Jacklyn suffocated in a wall'
+[10Dec2024 01:48:18.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jacklyn'/89932, l='ServerLevel[world]', x=-3809.63, y=101.56, z=-4043.28] died: Jacklyn suffocated in a wall
+[10Dec2024 01:48:22.016] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 01:48:35.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vern'/90104, l='ServerLevel[world]', x=-3817.63, y=128.00, z=-4080.28] died, message: 'Vern suffocated in a wall'
+[10Dec2024 01:48:35.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vern'/90104, l='ServerLevel[world]', x=-3817.63, y=128.00, z=-4080.28] died: Vern suffocated in a wall
+[10Dec2024 01:48:36.341] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[10Dec2024 01:48:36.342] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[10Dec2024 01:48:36.343] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[10Dec2024 01:48:36.343] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[10Dec2024 01:48:36.344] [Worker-Main-52/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[10Dec2024 01:48:50.165] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[10Dec2024 01:48:50.166] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[10Dec2024 01:48:50.166] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[10Dec2024 01:48:50.166] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[10Dec2024 01:49:22.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.3752841663081199
+[10Dec2024 01:49:22.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.3085630048344683
+[10Dec2024 01:49:22.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.5124467027821993
+[10Dec2024 01:49:22.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.5124467027821993
+[10Dec2024 01:49:22.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.2993951565131283
+[10Dec2024 01:49:22.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.5212339666527441
+[10Dec2024 01:49:22.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JhynMC) moved wrongly! 0.2993298575574954
+[10Dec2024 01:50:26.582] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 01:53:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to JhynMC]
+[10Dec2024 01:53:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[10Dec2024 01:53:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[10Dec2024 01:54:20.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[10Dec2024 01:54:20.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Dec2024 01:54:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[10Dec2024 01:54:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Dec2024 01:54:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[10Dec2024 01:54:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Dec2024 01:54:55.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[10Dec2024 01:55:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> si
+[10Dec2024 01:55:47.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3983, y=127, z=-4096} BlockPos{x=-4017, y=127, z=-4096}
+[10Dec2024 01:55:47.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3983, y=127, z=-4096} BlockPos{x=-4018, y=128, z=-4097}
+[10Dec2024 01:55:47.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3983, y=127, z=-4096} BlockPos{x=-4018, y=128, z=-4097}
+[10Dec2024 01:55:47.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3983, y=127, z=-4096} BlockPos{x=-4018, y=128, z=-4097}
+[10Dec2024 01:55:47.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3983, y=127, z=-4096} BlockPos{x=-4018, y=128, z=-4097}
+[10Dec2024 01:55:47.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3983, y=127, z=-4096} BlockPos{x=-4018, y=128, z=-4097}
+[10Dec2024 01:55:47.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4016, y=126, z=-4098} BlockPos{x=-4017, y=128, z=-4096}
+[10Dec2024 01:55:48.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4016, y=126, z=-4098} BlockPos{x=-4017, y=128, z=-4096}
+[10Dec2024 01:55:48.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4016, y=126, z=-4098} BlockPos{x=-4017, y=128, z=-4096}
+[10Dec2024 01:55:48.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4016, y=126, z=-4098} BlockPos{x=-4017, y=128, z=-4096}
+[10Dec2024 01:55:48.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4016, y=126, z=-4098} BlockPos{x=-4017, y=128, z=-4096}
+[10Dec2024 01:55:48.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4016, y=126, z=-4098} BlockPos{x=-4017, y=128, z=-4096}
+[10Dec2024 01:55:53.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sip esto es
+[10Dec2024 01:56:13.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> arriba xd
+[10Dec2024 01:56:58.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[10Dec2024 01:57:55.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepishikita21 to Gondar_80]
+[10Dec2024 01:58:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahi van estrellas
+[10Dec2024 01:58:09.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No las pongas
+[10Dec2024 01:58:22.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no
+[10Dec2024 01:59:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> xd
+[10Dec2024 02:00:14.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[10Dec2024 02:00:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ven
+[10Dec2024 02:01:33.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya nada
+[10Dec2024 02:01:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> había un piso más
+[10Dec2024 02:01:54.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ontoi?
+[10Dec2024 02:02:01.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[10Dec2024 02:02:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[10Dec2024 02:02:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sip
+[10Dec2024 02:02:37.330] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[10Dec2024 02:02:37.334] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[10Dec2024 02:02:37.461] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[10Dec2024 02:02:37.464] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[10Dec2024 02:02:37.465] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[10Dec2024 02:03:38.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tienen una de gragon?
+[10Dec2024 02:06:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
