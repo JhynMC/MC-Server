@@ -3204,3 +3204,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [12Dec2024 06:58:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Descasnee
 [12Dec2024 06:59:08.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
 [12Dec2024 06:59:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[12Dec2024 07:18:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[12Dec2024 07:26:16.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[12Dec2024 07:26:16.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[12Dec2024 07:28:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Dec2024 07:28:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 07:28:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 07:28:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 07:28:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 07:28:22.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Dec2024 07:28:22.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[12Dec2024 07:28:22.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Dec2024 07:28:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Dec2024 07:28:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Dec2024 07:28:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[12Dec2024 07:28:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Dec2024 07:28:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
