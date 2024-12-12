@@ -3197,3 +3197,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [12Dec2024 06:57:36.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elwood'/70411, l='ServerLevel[world]', x=-517.74, y=77.56, z=1038.28] died: Elwood was turned into KFC by Fire Dragon
 [12Dec2024 06:57:36.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marcelo'/70405, l='ServerLevel[world]', x=-511.43, y=77.00, z=1034.30] died, message: 'Marcelo was turned into KFC by Fire Dragon'
 [12Dec2024 06:57:36.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marcelo'/70405, l='ServerLevel[world]', x=-511.43, y=77.00, z=1034.30] died: Marcelo was incinerated by Fire Dragon
+[12Dec2024 06:57:49.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Juan'/70407, l='ServerLevel[world]', x=-531.37, y=77.00, z=1043.45] died: Juan burned to death
+[12Dec2024 06:57:49.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Vita'/70400, l='ServerLevel[world]', x=-537.86, y=76.00, z=1002.70] died: Vita burned to death
+[12Dec2024 06:57:55.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[12Dec2024 06:58:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Vava adioos Pepitoo
+[12Dec2024 06:58:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Descasnee
+[12Dec2024 06:59:08.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[12Dec2024 06:59:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
