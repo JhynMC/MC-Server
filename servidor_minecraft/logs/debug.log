@@ -11765,3 +11765,58 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [12Dec2024 06:36:12.115] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [12Dec2024 06:36:48.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 06:36:48.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:37:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ;)
+[12Dec2024 06:37:36.568] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:37:43.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elma'/45389, l='ServerLevel[world]', x=-765.55, y=77.00, z=257.96] died, message: 'Elma was slain by Husk'
+[12Dec2024 06:37:43.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elma'/45389, l='ServerLevel[world]', x=-765.55, y=77.00, z=257.96] died: Elma was slain by Husk
+[12Dec2024 06:39:51.014] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:39:51.014] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:39:58.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nambre Pepe desactive ese aimbot
+[12Dec2024 06:40:02.561] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:40:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Si bueno
+[12Dec2024 06:40:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Juimonos
+[12Dec2024 06:40:50.364] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:40:50.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Nonon solo salen donde aparecen
+[12Dec2024 06:40:59.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[12Dec2024 06:41:06.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[12Dec2024 06:41:10.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[12Dec2024 06:41:11.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:41:11.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:41:18.072] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:41:18.072] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:41:45.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:41:48.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:41:48.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:41:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Jhyn
+[12Dec2024 06:41:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Mande
+[12Dec2024 06:42:07.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:07.894] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:07.894] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:07.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:30.727] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:57.619] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:59.975] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:42:59.976] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:43:03.179] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:43:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> presione la V
+[12Dec2024 06:43:16.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:43:16.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:43:22.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[12Dec2024 06:43:27.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> grafia
+[12Dec2024 06:44:03.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:03.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:08.231] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:29.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:29.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:32.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:32.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:36.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:44:40.732] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:45:08.142] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:45:14.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:45:45.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:46:04.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[12Dec2024 06:46:29.077] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:46:35.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:46:48.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:46:48.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
