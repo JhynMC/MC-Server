@@ -3040,3 +3040,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [12Dec2024 05:00:05.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Estaba pensado en poner las mejores de mochilas pero para cofres, les parece bien?
 [12Dec2024 05:00:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> mejoras*
 [12Dec2024 05:00:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El sophisticated tiene una versión para cofres
+[12Dec2024 05:07:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sipi es muuucha exploración xD
+[12Dec2024 05:07:45.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -649.500000, 65.500000, 645.500000]
+[12Dec2024 05:08:15.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -644.500000, 66.500000, 645.500000]
+[12Dec2024 05:11:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[12Dec2024 05:13:17.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -644.500000, 66.500000, 645.500000]
+[12Dec2024 05:14:51.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
