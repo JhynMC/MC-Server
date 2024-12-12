@@ -3025,3 +3025,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [12Dec2024 04:45:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> achas
 [12Dec2024 04:45:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> espadas
 [12Dec2024 04:45:34.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Julianne'/11586, l='ServerLevel[world]', x=-399.50, y=77.63, z=911.18] died: Julianne was slain by Marlyn
+[12Dec2024 04:45:44.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Benito'/11794, l='ServerLevel[world]', x=-391.33, y=79.00, z=908.21] died: Benito was slain by Iron Golem
+[12Dec2024 04:45:45.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Marlyn'/11790, l='ServerLevel[world]', x=-392.40, y=79.00, z=909.95] died: Marlyn was slain by Iron Golem
+[12Dec2024 04:45:46.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ethelyn'/11605, l='ServerLevel[world]', x=-392.64, y=79.00, z=910.31] died: Ethelyn was slain by Iron Golem
+[12Dec2024 04:45:47.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Kymberly'/11705, l='ServerLevel[world]', x=-393.48, y=78.50, z=910.69] died: Kymberly was slain by Iron Golem
+[12Dec2024 04:45:48.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Chrissy'/11629, l='ServerLevel[world]', x=-391.86, y=79.00, z=910.89] died: Chrissy was slain by Iron Golem
+[12Dec2024 04:45:55.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -5.762878131027264,-1.0,-9.571028396568863
+[12Dec2024 04:48:42.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Barney'/13646, l='ServerLevel[world]', x=-365.94, y=83.00, z=962.88] died: Barney burned to death
+[12Dec2024 04:49:29.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tom'/13418, l='ServerLevel[world]', x=-721.99, y=71.94, z=379.38] died, message: 'Tom was shot by Stymphalian Bird'
+[12Dec2024 04:49:29.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tom'/13418, l='ServerLevel[world]', x=-721.99, y=71.94, z=379.38] died: Tom was shot by Stymphalian Bird
+[12Dec2024 04:53:06.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-801, y=45, z=321} BlockPos{x=-801, y=42, z=318}
+[12Dec2024 04:57:03.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Dec2024 04:58:29.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[12Dec2024 05:00:05.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Estaba pensado en poner las mejores de mochilas pero para cofres, les parece bien?
+[12Dec2024 05:00:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> mejoras*
+[12Dec2024 05:00:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El sophisticated tiene una versión para cofres
