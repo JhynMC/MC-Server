@@ -138,6 +138,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-17 06:42:00 +0000",
+      "minecraft:taiga": "2024-12-12 06:01:08 +0000",
       "minecraft:deep_ocean": "2024-12-10 01:41:04 +0000",
       "minecraft:frozen_river": "2024-11-16 02:24:37 +0000",
       "minecraft:birch_forest": "2024-11-21 04:58:04 +0000",
@@ -795,6 +796,12 @@
   "bosses_of_mass_destruction:adventure/night_lich_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:lich": "2024-12-10 02:10:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-12-12 05:53:33 +0000"
     },
     "done": true
   },
