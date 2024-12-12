@@ -11820,3 +11820,83 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [12Dec2024 06:46:35.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [12Dec2024 06:46:48.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 06:46:48.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:47:57.227] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:49:02.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> bueno, yo me retiro, pasen feli noshe
+[12Dec2024 06:49:02.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:49:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Baaai
+[12Dec2024 06:49:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Adios Pepii Descansee
+[12Dec2024 06:49:14.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[12Dec2024 06:49:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[12Dec2024 06:49:57.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:49:57.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:49:57.231] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:49:57.231] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:50:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Tiene circulo decuración?
+[12Dec2024 06:51:03.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Alaaa
+[12Dec2024 06:51:48.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:51:48.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:51:48.496] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:51:48.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:51:48.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:52:15.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:52:27.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [c4ee8f38-f821-44d7-aed0-bf605b891545]
+[12Dec2024 06:52:49.221] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:52:56.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [866d494d-1101-4bb9-8424-64094fc18079]
+[12Dec2024 06:53:01.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:53:05.469] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:53:13.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lael'/70159, l='ServerLevel[world]', x=-316.69, y=84.00, z=1065.48] died, message: 'Lael was mauled by Pepeowo's undead'
+[12Dec2024 06:53:13.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lael'/70159, l='ServerLevel[world]', x=-316.69, y=84.00, z=1065.48] died: Lael was mauled by Pepeowo's undead
+[12Dec2024 06:53:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yo lo traía para ver si eran hostiles con aldeanos xD
+[12Dec2024 06:54:11.845] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [aaa8ae14-9bda-45b8-9b92-45b61da0f1f0]
+[12Dec2024 06:54:12.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [9b79660c-1cfa-4bc7-95a1-ed5f2fc2c95e]
+[12Dec2024 06:54:13.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [f31dfed2-d899-43a6-b98d-0d339c2a7741]
+[12Dec2024 06:54:16.431] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:54:16.431] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:54:16.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:54:51.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -513.500000, 77.500000, 1039.500000]
+[12Dec2024 06:54:52.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:54:52.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:54:52.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:55:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -493.500000, 63.500000, 2868.500000]
+[12Dec2024 06:55:08.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:55:08.292] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:55:09.133] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:55:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -497.500000, 13.500000, 1031.500000]
+[12Dec2024 06:55:42.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[12Dec2024 06:56:11.390] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:56:12.845] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:56:20.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:56:22.493] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:56:48.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:56:48.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:56:49.624] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[12Dec2024 06:56:53.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Earnest'/70385, l='ServerLevel[world]', x=-504.09, y=83.13, z=1065.53] died, message: 'Earnest was slain by Fire Dragon'
+[12Dec2024 06:56:53.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Earnest'/70385, l='ServerLevel[world]', x=-504.09, y=83.13, z=1065.53] died: Earnest was slain by Fire Dragon
+[12Dec2024 06:57:00.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:57:00.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tarsha'/64374, l='ServerLevel[world]', x=-508.36, y=78.00, z=1042.77] died: Tarsha was slain by Fire Dragon
+[12Dec2024 06:57:04.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Aurelio'/70397, l='ServerLevel[world]', x=-501.49, y=77.00, z=1044.93] died: Aurelio was incinerated by Fire Dragon
+[12Dec2024 06:57:09.043] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:57:16.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rochelle'/70406, l='ServerLevel[world]', x=-518.40, y=77.56, z=1040.69] died, message: 'Rochelle was slain by Fire Dragon'
+[12Dec2024 06:57:16.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rochelle'/70406, l='ServerLevel[world]', x=-518.40, y=77.56, z=1040.69] died: Rochelle was slain by Fire Dragon
+[12Dec2024 06:57:18.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jina'/70401, l='ServerLevel[world]', x=-513.69, y=77.00, z=1029.35] died, message: 'Jina was burnt to a crisp whilst fighting Fire Dragon'
+[12Dec2024 06:57:18.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jina'/70401, l='ServerLevel[world]', x=-513.69, y=77.00, z=1029.35] died: Jina was burnt to a crisp whilst fighting Fire Dragon
+[12Dec2024 06:57:18.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Errol'/70409, l='ServerLevel[world]', x=-515.82, y=77.00, z=1033.71] died, message: 'Errol was burnt to a crisp whilst fighting Fire Dragon'
+[12Dec2024 06:57:18.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Errol'/70409, l='ServerLevel[world]', x=-515.82, y=77.00, z=1033.71] died: Errol was burnt to a crisp whilst fighting Fire Dragon
+[12Dec2024 06:57:22.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 06:57:24.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Donnette'/70404, l='ServerLevel[world]', x=-509.04, y=77.25, z=1030.30] died, message: 'Donnette was slain by Fire Dragon'
+[12Dec2024 06:57:24.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Donnette'/70404, l='ServerLevel[world]', x=-509.04, y=77.25, z=1030.30] died: Donnette was slain by Fire Dragon
+[12Dec2024 06:57:26.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Micaela'/70396, l='ServerLevel[world]', x=-511.30, y=77.00, z=1031.17] died, message: 'Micaela was slain by Fire Dragon'
+[12Dec2024 06:57:26.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Micaela'/70396, l='ServerLevel[world]', x=-511.30, y=77.00, z=1031.17] died: Micaela was slain by Fire Dragon
+[12Dec2024 06:57:27.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mitsuko'/70408, l='ServerLevel[world]', x=-492.66, y=78.00, z=1018.66] died, message: 'Mitsuko burned to death'
+[12Dec2024 06:57:27.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitsuko'/70408, l='ServerLevel[world]', x=-492.66, y=78.00, z=1018.66] died: Mitsuko burned to death
+[12Dec2024 06:57:29.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kasie'/70402, l='ServerLevel[world]', x=-514.04, y=79.00, z=1054.88] died, message: 'Kasie was burnt to a crisp whilst fighting Fire Dragon'
+[12Dec2024 06:57:29.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kasie'/70402, l='ServerLevel[world]', x=-514.04, y=79.00, z=1054.88] died: Kasie was burnt to a crisp whilst fighting Fire Dragon
+[12Dec2024 06:57:29.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alexandra'/70403, l='ServerLevel[world]', x=-526.70, y=77.00, z=1034.55] died, message: 'Alexandra was burnt to a crisp whilst fighting Fire Dragon'
+[12Dec2024 06:57:29.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alexandra'/70403, l='ServerLevel[world]', x=-526.70, y=77.00, z=1034.55] died: Alexandra was burnt to a crisp whilst fighting Fire Dragon
+[12Dec2024 06:57:30.073] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Evelina'/70398, l='ServerLevel[world]', x=-508.28, y=78.17, z=1041.70] died, message: 'Evelina was slain by Fire Dragon'
+[12Dec2024 06:57:30.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Evelina'/70398, l='ServerLevel[world]', x=-508.28, y=78.17, z=1041.70] died: Evelina was slain by Fire Dragon
+[12Dec2024 06:57:36.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gisele'/70410, l='ServerLevel[world]', x=-508.30, y=77.00, z=1037.23] died: Gisele walked into fire whilst fighting Fire Dragon
+[12Dec2024 06:57:36.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elwood'/70411, l='ServerLevel[world]', x=-517.74, y=77.56, z=1038.28] died, message: 'Elwood was incinerated by Fire Dragon'
+[12Dec2024 06:57:36.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elwood'/70411, l='ServerLevel[world]', x=-517.74, y=77.56, z=1038.28] died: Elwood was turned into KFC by Fire Dragon
+[12Dec2024 06:57:36.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marcelo'/70405, l='ServerLevel[world]', x=-511.43, y=77.00, z=1034.30] died, message: 'Marcelo was turned into KFC by Fire Dragon'
+[12Dec2024 06:57:36.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marcelo'/70405, l='ServerLevel[world]', x=-511.43, y=77.00, z=1034.30] died: Marcelo was incinerated by Fire Dragon
