@@ -3265,3 +3265,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 06:31:44.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Roselia'/79897, l='ServerLevel[world]', x=-402.49, y=77.00, z=910.10] died, message: 'Roselia was slain by Raelene'
 [14Dec2024 06:31:44.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Roselia'/79897, l='ServerLevel[world]', x=-402.49, y=77.00, z=910.10] died: Roselia was slain by Raelene
 [14Dec2024 06:31:58.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Raelene'/83856, l='ServerLevel[world]', x=-405.19, y=77.00, z=896.35] died: Raelene was slain by Iron Golem
+[14Dec2024 06:33:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e
+[14Dec2024 06:33:42.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 2292.500000, 258.500000, 2999.500000]
+[14Dec2024 06:34:09.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[14Dec2024 06:34:58.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
