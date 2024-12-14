@@ -3336,3 +3336,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 07:40:29.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hasta la mañana no le da, porque ya queda como 1 y media  hora xD
 [14Dec2024 07:48:22.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ay se me olvidó que estaba en disc xD be Pepiito buena noche
 [14Dec2024 07:48:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] byeee :D
+[14Dec2024 08:08:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -42.500000, 82.500000, 136.500000]
+[14Dec2024 08:09:02.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[14Dec2024 08:09:02.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[14Dec2024 08:14:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Dec2024 08:14:25.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 08:14:25.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 08:14:25.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 08:14:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Dec2024 08:14:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Dec2024 08:14:26.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[14Dec2024 08:14:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Dec2024 08:14:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Dec2024 08:14:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Dec2024 08:14:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[14Dec2024 08:14:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Dec2024 08:14:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
