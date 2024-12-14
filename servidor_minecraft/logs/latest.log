@@ -3246,3 +3246,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 06:04:20.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
 [14Dec2024 06:04:20.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
 [14Dec2024 06:07:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Le tengo que pasar el modelo de navidad xD
+[14Dec2024 06:15:16.638] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[14Dec2024 06:15:35.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:49173] logged in with entity id 79073 at (-412.5654960499624, 85.0, 1113.6554420779476)
+[14Dec2024 06:15:35.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[14Dec2024 06:15:35.575] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[14Dec2024 06:17:22.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yo tengo
+[14Dec2024 06:17:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Me encontré otro xd
+[14Dec2024 06:18:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Se va a quedar mucho más?
+[14Dec2024 06:18:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es que ya casi se llenan las horas xD
+[14Dec2024 06:18:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ah vava nos da chance creo
+[14Dec2024 06:18:49.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> omo 3-4 horas
+[14Dec2024 06:18:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Como*
+[14Dec2024 06:22:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sip solo se creftean
