@@ -781,6 +781,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-14 05:04:05 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
     "criteria": {
       "requirement": "2024-12-14 04:21:11 +0000"

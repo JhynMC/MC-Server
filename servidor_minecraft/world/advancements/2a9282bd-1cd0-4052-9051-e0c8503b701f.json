@@ -81,6 +81,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-14 05:05:42 +0000",
       "sweet_berries": "2024-12-14 04:56:11 +0000",
       "beef": "2024-12-09 02:17:24 +0000",
       "apple": "2024-11-17 05:30:27 +0000",
@@ -134,6 +135,7 @@
       "minecraft:jagged_peaks": "2024-11-17 06:35:45 +0000",
       "minecraft:cold_ocean": "2024-11-17 06:00:10 +0000",
       "minecraft:forest": "2024-11-17 05:50:57 +0000",
+      "minecraft:lush_caves": "2024-12-14 04:59:07 +0000",
       "minecraft:windswept_forest": "2024-12-09 03:18:57 +0000",
       "minecraft:ocean": "2024-11-17 05:52:38 +0000",
       "minecraft:snowy_beach": "2024-12-09 03:19:46 +0000",
