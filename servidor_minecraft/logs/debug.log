@@ -12176,3 +12176,39 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 06:21:56.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 06:21:56.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 06:22:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sip solo se creftean
+[14Dec2024 06:23:11.106] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:23:19.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Tenemos que buscar spawner de Withers
+[14Dec2024 06:24:00.861] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:24:04.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:24:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ajá
+[14Dec2024 06:24:14.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:24:27.964] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:24:40.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:25:23.264] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:25:33.015] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:26:23.611] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:26:27.359] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:26:56.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 06:26:56.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 06:26:57.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:27:12.457] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:28:33.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:29:18.110] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:29:28.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:29:41.956] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:29:45.162] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:30:09.157] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:30:45.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kimi'/77395, l='ServerLevel[world]', x=-396.67, y=85.56, z=945.55] died, message: 'Kimi bled to death'
+[14Dec2024 06:30:45.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kimi'/77395, l='ServerLevel[world]', x=-396.67, y=85.56, z=945.55] died: Kimi bled to death
+[14Dec2024 06:30:51.531] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:30:51.532] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:30:54.365] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:30:54.365] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:31:20.062] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:31:22.815] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:31:33.859] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 06:31:44.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Roselia'/79897, l='ServerLevel[world]', x=-402.49, y=77.00, z=910.10] died, message: 'Roselia was slain by Raelene'
+[14Dec2024 06:31:44.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Roselia'/79897, l='ServerLevel[world]', x=-402.49, y=77.00, z=910.10] died: Roselia was slain by Raelene
+[14Dec2024 06:31:56.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 06:31:56.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 06:31:58.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Raelene'/83856, l='ServerLevel[world]', x=-405.19, y=77.00, z=896.35] died: Raelene was slain by Iron Golem
