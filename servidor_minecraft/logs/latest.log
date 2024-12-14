@@ -3233,3 +3233,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 05:50:30.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 2114.500000, 221.500000, 928.500000]
 [14Dec2024 05:50:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
 [14Dec2024 05:51:03.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Welcome To The Machine]
+[14Dec2024 05:52:19.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[14Dec2024 05:55:02.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[14Dec2024 05:55:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> x2 xd
+[14Dec2024 05:57:45.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/75242, l='ServerLevel[world]', x=2050.72, y=212.06, z=960.52] died: Gearling couldn't take Pepeowo's heat
+[14Dec2024 05:58:57.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nombre voy a 4 fps xD
+[14Dec2024 06:01:03.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]

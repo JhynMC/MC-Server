@@ -100,7 +100,8 @@
       "glowing_grotto": "2024-11-17 03:13:50 +0000",
       "undergrowth": "2024-12-02 06:26:55 +0000",
       "rainforest": "2024-11-28 04:59:27 +0000",
-      "crag": "2024-11-17 06:41:37 +0000"
+      "crag": "2024-11-17 06:41:37 +0000",
+      "ominous_woods": "2024-12-14 05:49:24 +0000"
     },
     "done": false
   },
@@ -1167,6 +1168,12 @@
   "majruszsdifficulty:angler_treasure_bag": {
     "criteria": {
       "bag_opened": "2024-12-12 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-12-14 05:51:03 +0000"
     },
     "done": true
   },
