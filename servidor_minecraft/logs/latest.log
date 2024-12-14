@@ -3239,3 +3239,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 05:57:45.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/75242, l='ServerLevel[world]', x=2050.72, y=212.06, z=960.52] died: Gearling couldn't take Pepeowo's heat
 [14Dec2024 05:58:57.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nombre voy a 4 fps xD
 [14Dec2024 06:01:03.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[14Dec2024 06:03:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[14Dec2024 06:03:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Voy a reiniciar
+[14Dec2024 06:03:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> O sea solo la compu xD
+[14Dec2024 06:03:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El server no
+[14Dec2024 06:04:20.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[14Dec2024 06:04:20.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[14Dec2024 06:07:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Le tengo que pasar el modelo de navidad xD
