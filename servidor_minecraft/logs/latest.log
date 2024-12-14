@@ -3291,3 +3291,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 06:59:32.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Tenemos Tomo de Filo 6!!!
 [14Dec2024 07:00:43.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Nightmare Fuel]
 [14Dec2024 07:03:07.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[14Dec2024 07:04:11.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[14Dec2024 07:06:56.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[14Dec2024 07:07:15.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -380.500000, 64.500000, -316.500000]
+[14Dec2024 07:09:25.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[14Dec2024 07:11:09.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[14Dec2024 07:11:17.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Disculpe qué me preguntó?
+[14Dec2024 07:13:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 24.500000, 71.500000, 817.500000]
