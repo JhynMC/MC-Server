@@ -720,21 +720,21 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-09 04:19:18 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:wither_treasure_bag": {
     "criteria": {
       "bag_opened": "2024-12-09 04:20:26 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "nether_wart": "2024-12-09 06:05:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-12-09 04:51:36 +0000"
+      "blaze_rod": "2024-12-09 04:20:26 +0000"
     },
     "done": true
   },
@@ -744,15 +744,15 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "majruszsdifficulty:warden_treasure_bag": {
     "criteria": {
-      "summoned": "2024-12-09 04:19:18 +0000"
+      "bag_opened": "2024-12-09 04:46:29 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "blaze_rod": "2024-12-09 04:20:26 +0000"
+      "kill_mob_near_sculk_catalyst": "2024-12-09 04:51:36 +0000"
     },
     "done": true
   },
@@ -768,9 +768,21 @@
     },
     "done": true
   },
-  "majruszsdifficulty:warden_treasure_bag": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "bag_opened": "2024-12-09 04:46:29 +0000"
+      "nether_wart": "2024-12-09 06:05:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-14 04:21:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2024-12-14 04:21:11 +0000"
     },
     "done": true
   },

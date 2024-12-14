@@ -2984,3 +2984,30 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 04:05:41.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
 [14Dec2024 04:05:41.969] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
 [14Dec2024 04:05:43.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[14Dec2024 04:15:01.897] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[14Dec2024 04:15:09.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.192.44.69:51187] logged in with entity id 1981 at (-347.30000001192093, 86.0, 1061.9809717440676)
+[14Dec2024 04:15:09.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[14Dec2024 04:15:09.737] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[14Dec2024 04:15:26.953] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player junior_mtz_ is cbef8e94-dfdd-4516-9309-ffb4e5452f4a
+[14Dec2024 04:15:34.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: junior_mtz_[/127.143.68.152:53939] logged in with entity id 2030 at (-241.86645116216414, 81.0, 986.179655282552)
+[14Dec2024 04:15:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ joined the game
+[14Dec2024 04:15:34.653] [Server thread/INFO] [Jade/]: Syncing config to junior_mtz_ (cbef8e94-dfdd-4516-9309-ffb4e5452f4a)
+[14Dec2024 04:17:36.704] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[14Dec2024 04:17:59.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:44855] logged in with entity id 2703 at (-411.69999998807907, 90.0, 1116.4121046345676)
+[14Dec2024 04:17:59.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[14Dec2024 04:17:59.368] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[14Dec2024 04:18:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Llegó el GOAT
+[14Dec2024 04:18:43.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Para espadas, acero de dragon y alguna cosa más
+[14Dec2024 04:21:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has completed the challenge [Necronomicon]
+[14Dec2024 04:21:17.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Magery]
+[14Dec2024 04:23:07.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yoshi tiene la mochila abierta
+[14Dec2024 04:24:02.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepe tenemos dragon
+[14Dec2024 04:24:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cuando esten listo me avisan
+[14Dec2024 04:24:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No, pero para matar xD
+[14Dec2024 04:25:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si quieren se iban más lejos
+[14Dec2024 04:25:27.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aña
+[14Dec2024 04:25:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> un añaña
+[14Dec2024 04:26:00.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [What Was That!?]
+[14Dec2024 04:26:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yo magodirto
+[14Dec2024 04:26:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> soy*
+[14Dec2024 04:27:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> NOOO
