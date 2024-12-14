@@ -12416,3 +12416,38 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 07:23:22.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [14Dec2024 07:24:02.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [14Dec2024 07:24:02.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:24:28.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[14Dec2024 07:25:07.651] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:25:25.828] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 639 0 329
+[14Dec2024 07:25:26.441] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 763 0 249
+[14Dec2024 07:25:31.934] [Worker-Main-110/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 679 0 337
+[14Dec2024 07:25:36.828] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 575 0 358
+[14Dec2024 07:25:42.461] [Worker-Main-111/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 778 0 76
+[14Dec2024 07:26:02.026] [Worker-Main-110/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 583 0 398
+[14Dec2024 07:26:32.857] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:26:56.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:26:56.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:27:30.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Dec2024 07:27:56.057] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Dec2024 07:27:57.199] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:28:11.720] [Worker-Main-110/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 452 0 407
+[14Dec2024 07:28:12.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14Dec2024 07:29:10.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:29:25.348] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:29:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sisi esa da muy buena armadura
+[14Dec2024 07:29:42.405] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:29:45.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:30:00.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[14Dec2024 07:30:01.018] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:30:16.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:30:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[14Dec2024 07:30:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[14Dec2024 07:31:24.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:31:56.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:31:56.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:32:08.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[14Dec2024 07:32:22.504] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:32:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Le di 14 diamantes n.n
+[14Dec2024 07:33:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Su espada es de filo o castigo?
+[14Dec2024 07:33:26.761] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[14Dec2024 07:33:34.051] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot

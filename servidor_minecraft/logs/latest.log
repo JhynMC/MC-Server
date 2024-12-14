@@ -3309,3 +3309,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [14Dec2024 07:20:58.213] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 581 0 233
 [14Dec2024 07:22:22.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [14Dec2024 07:22:54.491] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 631 0 230
+[14Dec2024 07:24:28.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[14Dec2024 07:25:25.828] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 639 0 329
+[14Dec2024 07:25:26.441] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 763 0 249
+[14Dec2024 07:25:31.934] [Worker-Main-110/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 679 0 337
+[14Dec2024 07:25:36.828] [Worker-Main-112/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 575 0 358
+[14Dec2024 07:25:42.461] [Worker-Main-111/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 778 0 76
+[14Dec2024 07:26:02.026] [Worker-Main-110/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 583 0 398
+[14Dec2024 07:28:11.720] [Worker-Main-110/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 452 0 407
+[14Dec2024 07:29:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sisi esa da muy buena armadura
+[14Dec2024 07:30:00.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[14Dec2024 07:30:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[14Dec2024 07:30:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -422.500000, 85.500000, 1113.500000]
+[14Dec2024 07:32:08.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[14Dec2024 07:32:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Le di 14 diamantes n.n
+[14Dec2024 07:33:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Su espada es de filo o castigo?
